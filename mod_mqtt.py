@@ -28,7 +28,7 @@ import asyncio
 import binascii
 import ps_secrets
 import queue
-from ps_util import to_str, to_bytes
+from ps_util import to_str, to_bytes, ticks_ms, ticks_diff
 import sys
 import time
 import gc
@@ -104,9 +104,9 @@ class ModuleService(PsrpiModule):
     # RPi400 Mosquitto MQTT broker bridge with HiveMQ
     def _in_buff(self,topic,msg):
         # remove any messages in buffer older than 3 seconds
-        t = time.ticks_ms()
+        t = ticks_ms()
         while len(self._msg_buff) > 0:
-            if time.ticks_diff(t,self._msg_buff[0][0]) > 3000:
+            if ticks_diff(t,self._msg_buff[0][0])  > 3_000:
                 self._msg_buff.pop(0)
             else:
                 break
@@ -114,10 +114,11 @@ class ModuleService(PsrpiModule):
         for i in range(len(self._msg_buff)):
             b = self._msg_buff[i]
             if b[1] == topic and b[2] == msg:
+                # print("msg in cache:",topic,msg)
                 return True
             
         # msg not in buff, add it
-        self._msg_buff.append([t,topic,msg])
+        self._msg_buff.append((t,topic,msg))
         return False
         
     async def run(self):
@@ -126,7 +127,8 @@ class ModuleService(PsrpiModule):
             async with client.messages() as messages:
                 await client.subscribe("#")
                 async for message in messages:
-                    print("{} {}".format(message.topic,to_str(message.payload)))
+                    if not self._in_buff(message.topic,message.payload):
+                        print("{} {}".format(message.topic,to_str(message.payload)))
 
     
     

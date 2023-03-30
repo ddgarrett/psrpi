@@ -2,13 +2,31 @@
     Utility functions
 '''
 
+os_has_ticks = False
+
 try:
     import ujson as json
+    os_has_ticks = True
 except ModuleNotFoundError:
     import json
 
 import os
 import sys
+import time
+
+# if not micro, returns time in ms
+def ticks_ms():
+    if os_has_ticks:
+        return time.ticks_ms()
+    
+    return time.time_ns() // 1_000_000
+
+# returns t1-t2
+def ticks_diff(t1,t2):
+    if os_has_ticks:
+        return time.time.ticks_diff(t1,t2)
+    
+    return t1 - t2
 
 def to_str(t):
     if type(t) == str:

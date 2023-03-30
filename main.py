@@ -1,5 +1,5 @@
 """
-    Boot up PSOS (Publish/Subscribe OS)
+    Boot up PS RPi (Publish/Subscribe Raspberry Pi)
     
     Read parameter file to start up clients.
 """
