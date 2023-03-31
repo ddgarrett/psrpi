@@ -1,6 +1,8 @@
 # my ignore
 ps_secrets.py
 config.json
+secrets.py
+secrets.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
