@@ -6,9 +6,11 @@ os_has_ticks = False
 
 try:
     import ujson as json
+    import uasyncio as asyncio
     os_has_ticks = True
 except ModuleNotFoundError:
     import json
+    import asyncio
 
 import os
 import sys
@@ -27,6 +29,19 @@ def ticks_diff(t1,t2):
         return time.time.ticks_diff(t1,t2)
     
     return t1 - t2
+
+# returns t1+t2
+def ticks_add(t1,t2):
+    if os_has_ticks:
+        return time.time.ticks_add(t1,t2)
+    
+    return t1 + t2
+
+async def sleep_ms(t):
+    if os_has_ticks:
+        await asyncio.sleep_ms(t)
+    else:
+        await asyncio.sleep(t/1000.0)
 
 def to_str(t):
     if type(t) == str:
