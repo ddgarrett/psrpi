@@ -24,6 +24,7 @@
 """
 
 from ps_mod import PsrpiModule
+import json
 import asyncio
 import binascii
 import ps_secrets
@@ -35,8 +36,7 @@ import gc
 import asyncio_mqtt as aiomqtt
 # import utf8_char
 
-
-# from ps_subscription import Subscription
+from ps_subscr import Subscription
 
 # make root ca part of this module
 _hivemq_root_ca =  """-----BEGIN CERTIFICATE-----
@@ -122,7 +122,26 @@ class ModuleService(PsrpiModule):
         return False
         
     async def run(self):
+        reconnect_interval = 5  # In seconds
+        while True:
+            try:
+                async with aiomqtt.Client("10.0.0.231") as client:
+                    print("mqtt connected")
+                    self._client = client
+                    await self.resubscribe()
+                    async with client.messages() as messages:
+                        await client.subscribe("#")
+                        async for msg in messages:
+                            if not self._in_buff(msg.topic,msg.payload):
+                                print("{} {}".format(msg.topic,to_str(msg.payload)))
+                                self.mqtt_callback(msg.topic,msg.payload)
 
+            except aiomqtt.MqttError as error:
+                self._client = None
+                print(f'Error "{error}". Reconnecting in {reconnect_interval} seconds.')
+                await asyncio.sleep(reconnect_interval)
+
+        '''
         async with aiomqtt.Client("10.0.0.231") as client:
             async with client.messages() as messages:
                 await client.subscribe("#")
@@ -130,9 +149,9 @@ class ModuleService(PsrpiModule):
                     if not self._in_buff(message.topic,message.payload):
                         print("{} {}".format(message.topic,to_str(message.payload)))
 
+        '''
     
-    
-    '''
+
     # Subscribe to a given topic
     # Payloads received for the topic are placed on queue.
     # Tasks can therefore just go into a wait
@@ -146,7 +165,7 @@ class ModuleService(PsrpiModule):
             sub.subscribe(self._client)
             
         # give other tasks a chance to run
-        await uasyncio.sleep(0)
+        await asyncio.sleep(0)
 
     # when first connected or after reconnect
     # resubscribe to all previous subscriptions
@@ -158,6 +177,7 @@ class ModuleService(PsrpiModule):
     # publish messages
     async def publish(self,topic,payload,retain=False, qos=0):
         # if local topic, only send to local services
+        print("pub {} {}".format(topic,payload))
         if topic.startswith('local/'):
             if self.get_parm("print_local",False):
                 print("pub local: ",topic[6:],payload)
@@ -171,7 +191,7 @@ class ModuleService(PsrpiModule):
                 self.mqtt_callback(to_bytes(topic),to_bytes(payload))
                 
         # give other tasks a chance to run
-        await uasyncio(0)
+        await asyncio(0)
 
     # remove all of the subscriptions for a given queue
     async def unsubscribe(self,queue):
@@ -179,4 +199,3 @@ class ModuleService(PsrpiModule):
             if s._queue == queue:
                 self._subscriptions.remove(s)
                 
-'''

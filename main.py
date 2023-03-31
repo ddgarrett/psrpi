@@ -7,6 +7,7 @@
 try:
     import ujson as json
     import uasyncio as asyncio
+    import uasyncio as asyncio
 except ModuleNotFoundError:
     import json
     import asyncio

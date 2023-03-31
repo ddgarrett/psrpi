@@ -7,7 +7,8 @@
         },
         
     "services": [
-        {"name": "mqtt",   "module":"mod_mqtt",  "_broker":"hivemq", "broker":"rpi400_mqtt", "dup_cache_ms":3000 }
+        {"name": "mqtt",   "module":"mod_mqtt",  "_broker":"hivemq", "broker":"rpi400_mqtt", "dup_cache_ms":3000 },
+        {"name": "log",    "module":"mod_log", "pub_log":"win01/log"  }
 
      ]
     }
