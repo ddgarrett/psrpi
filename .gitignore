@@ -1,5 +1,6 @@
 # my ignore
 ps_secrets.py
+config.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,3 +132,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 ps_secrets.py
+config.json
