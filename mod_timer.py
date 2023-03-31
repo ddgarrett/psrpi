@@ -2,7 +2,7 @@
     Timer Module Class
     
     Trigger an even every n seconds
-    
+
     pub_msg = message to publish
     pub_topics = [list] of topics to publish to
     pub_wait   = number of seconds to wait between publishing
@@ -14,6 +14,7 @@
 
 from ps_mod import PsrpiModule
 import asyncio
+import ps_util
 import time
 
 
@@ -36,13 +37,14 @@ class ModuleService(PsrpiModule):
         sleep     = self.get_parm("sleep_ms",10)
         
         # function aliases 
-        ticks_add = time.ticks_add
-        ticks_ms  = time.ticks_ms
-        sleep_ms  = asyncio.sleep_ms       
+        ticks_add = ps_util.ticks_add
+        ticks_ms  = ps_util.ticks_ms
+        sleep_ms  = ps_util.sleep_ms       
        
         next_time = ticks_add(ticks_ms(),initial_wait_ms)
         
         while True:
+            print("sleeping {}ms".format(ticks_add(next_time,-ticks_ms())))
             await sleep_ms(ticks_add(next_time,-ticks_ms()))
             next_time = ticks_add(next_time,wait_ms)
             
