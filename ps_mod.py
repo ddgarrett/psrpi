@@ -37,8 +37,8 @@ class PsrpiModule:
                 
     # get formatted date and time
     def get_dt(self):
-        t = time.localtime(time.mktime(time.localtime())+self.tz*3600)
-        return "{1}/{2}/{0}\t{3}:{4:02d}:{5:02d}".format(*t)
+        t = time.localtime(time.mktime(time.localtime()))
+        return "{1}/{2}/{0} {3}:{4:02d}:{5:02d}".format(*t)
     
     def get_defaults(self):
         return self._parms._defaults

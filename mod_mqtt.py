@@ -133,7 +133,7 @@ class ModuleService(PsrpiModule):
                         await client.subscribe("#")
                         async for msg in messages:
                             if not self._in_buff(msg.topic,msg.payload):
-                                print("{} {}".format(msg.topic,to_str(msg.payload)))
+                                print("{} rcv {} {}".format(self.get_dt(),msg.topic,to_str(msg.payload)))
                                 self.mqtt_callback(msg.topic,msg.payload)
 
             except aiomqtt.MqttError as error:
@@ -177,21 +177,21 @@ class ModuleService(PsrpiModule):
     # publish messages
     async def publish(self,topic,payload,retain=False, qos=0):
         # if local topic, only send to local services
-        print("pub {} {}".format(topic,payload))
+        print("{} pub {} {}".format(self.get_dt(),topic,payload))
         if topic.startswith('local/'):
             if self.get_parm("print_local",False):
                 print("pub local: ",topic[6:],payload)
-            self.mqtt_callback(to_bytes(topic[6:]),to_bytes(payload))
+            self.mqtt_callback(topic[6:],to_bytes(payload))
         else:
             if self._client != None:
-                self._client.publish(to_bytes(topic), to_bytes(payload),retain,qos)
+                await self._client.publish(topic, to_bytes(payload),retain,qos)
                 
             # go ahead and publish locally
             else:
-                self.mqtt_callback(to_bytes(topic),to_bytes(payload))
+                self.mqtt_callback(topic,to_bytes(payload))
                 
         # give other tasks a chance to run
-        await asyncio(0)
+        await asyncio.sleep(0)
 
     # remove all of the subscriptions for a given queue
     async def unsubscribe(self,queue):
