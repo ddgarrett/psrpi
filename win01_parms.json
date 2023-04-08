@@ -12,8 +12,17 @@
         {"name": "log",    "module":"mod_log", "pub_log":"win01/log"  },
 
         {"name": "timer",  "module":"mod_timer", "pub_wait":300, "sleep_ms":3000,
-        "pub_msg":[    "upd",         "upd",        "upd",        "upd"],
-        "pub_topics": ["e01/dht/upd", "emp/dht/upd","e02/dht/upd","e04/dht/upd"] }
+            "pub_msg":[    "upd",         "upd",        "upd",        "upd"],
+            "pub_topics": ["e01/dht/upd", "emp/dht/upd","e02/dht/upd","e04/dht/upd"] },
+            
+        {"name": "ds",      "module":"mod_ds", "sub":"#",
+                "fn":"mqtt_dat.txt", "fn_idx":"mqtt_idx.txt" }
+
+     ],
+
+     "removed":[
+        {"name": "ds",      "module":"mod_ds", "sub":"#",
+        "fn":"mqtt_dat.txt", "fn_idx":"mqtt_idx.txt" }
      ]
     }
     
