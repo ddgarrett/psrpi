@@ -24,10 +24,11 @@
 
 from ps_mod import PsrpiModule
 import asyncio
-import queue
+# import queue
 import gc
 
 from ps_util import to_str,to_bytes,file_sz
+import ps_util
 from ps_subscr import Subscription
 import struct
 import os
@@ -65,7 +66,7 @@ class ModuleService(PsrpiModule):
         if self == mqtt:
             return
         
-        q = queue.Queue()
+        q = asyncio.Queue()
         await mqtt.subscribe(sub,q)
         while True:
             data = await q.get()
@@ -80,7 +81,7 @@ class ModuleService(PsrpiModule):
         self.subs.append(sub)
             
         # give other tasks a chance to run
-        await asyncio.sleep_ms(0)
+        await ps_util.sleep_ms(0)
     
     # publish messages
     async def publish(self,topic,payload,retain=False, qos=0):
@@ -149,7 +150,6 @@ class ModuleService(PsrpiModule):
         if self.fn_idx == None:
             return None
         
-        await self.lock_spi()
         sz = file_sz(self.fn_idx)
 
         p = idx * 4

@@ -28,7 +28,7 @@ import json
 import asyncio
 import binascii
 import ps_secrets
-import queue
+# import queue
 from ps_util import to_str, to_bytes, ticks_ms, ticks_diff
 import sys
 import time
@@ -90,10 +90,12 @@ class ModuleService(PsrpiModule):
     def mqtt_callback(self,topic,msg):
         if self._in_buff(topic,msg):
             return
-        
+         
         t = to_str(topic)
         m = to_str(msg)
         
+        print("mod_mqtt: {} rcv {} {}".format(self.get_dt(),t,m))
+
         t_split = t.split('/')
         
         for subscr in self._subscriptions:
@@ -125,16 +127,17 @@ class ModuleService(PsrpiModule):
         reconnect_interval = 5  # In seconds
         while True:
             try:
+                print("trying to connect to MQTT")
                 async with aiomqtt.Client("10.0.0.231") as client:
                     print("mqtt connected")
                     self._client = client
-                    await self.resubscribe()
+                    # await self.resubscribe()
                     async with client.messages() as messages:
                         await client.subscribe("#")
+                        print("mod_mqtt subscribe #")
                         async for msg in messages:
-                            if not self._in_buff(msg.topic,msg.payload):
-                                print("{} rcv {} {}".format(self.get_dt(),msg.topic,to_str(msg.payload)))
-                                self.mqtt_callback(msg.topic,msg.payload)
+                            self.mqtt_callback(msg.topic,msg.payload)
+                            await asyncio.sleep(0)
 
             except aiomqtt.MqttError as error:
                 self._client = None
@@ -162,7 +165,7 @@ class ModuleService(PsrpiModule):
         sub = Subscription(topic_filter,queue,qos)
         self._subscriptions.append(sub)
         if self._client != None:
-            sub.subscribe(self._client)
+            await sub.subscribe(self._client)
             
         # give other tasks a chance to run
         await asyncio.sleep(0)
@@ -172,7 +175,7 @@ class ModuleService(PsrpiModule):
     async def resubscribe(self):
         for sub in self._subscriptions:
             await self.log("resubscr " + to_str(sub._filter))
-            sub.subscribe(self._client)
+            await sub.subscribe(self._client)
     
     # publish messages
     async def publish(self,topic,payload,retain=False, qos=0):
