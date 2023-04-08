@@ -10,20 +10,20 @@
     additional info to be determined)
 '''
 
-import queue
-from ps_util import to_str, to_bytes
+# import queue
+from ps_util import to_str
 
 
 class Subscription:
     def __init__(self, topic_filter, queue,qos=0):
-        self._filter = to_bytes(topic_filter)
+        self._filter = to_str(topic_filter)
         self._filter_split = to_str(topic_filter).split('/')
         self._queue = queue
         self._qos   = qos
         
-    def subscribe(self,client):
-        print("subscribe "+to_str(self._filter))
-        client.subscribe(self._filter,self._qos)
+    async def subscribe(self,client):
+        print("subscribe "+self._filter)
+        await client.subscribe(self._filter,self._qos)
         
     # write the filter, topic and payload to this subscriptions queue
     # if the topic matches matches the filter.
@@ -35,7 +35,7 @@ class Subscription:
     # return True if the topic and queue
     # match this subscription
     def exact_match(self,topic_filter,queue):
-        return (self._filter == to_bytes(topic_filter) and
+        return (self._filter == to_str(topic_filter) and
                 self._queue  == queue)
     
     # return true if the MQTT filter for this subscription
