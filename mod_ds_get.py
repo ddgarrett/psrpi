@@ -80,10 +80,10 @@ class ModuleService(PsrpiModule):
 
         while True:
             data = await q.get()
-            await self.read_data(self.ds,data[2])
+            await self.read_data(self.ds,data[2],mqtt)
     
     # Read data from ds from payload
-    async def read_data(self,ds,payload):
+    async def read_data(self,ds,payload,mqtt):
         if isinstance(payload,str) and payload.startswith('{'):
             try:
                 payload = json.loads(payload)
@@ -94,24 +94,34 @@ class ModuleService(PsrpiModule):
             return await self.fatal_err("{}: invalid request {}".
                                    format(self._name,payload))
         
-        p = PsosParms(payload,self._parms,self.get_defaults())
+        # p = PsosParms(payload,self._parms,self.get_defaults())
 
-        resp_topic = p[("resp_topic",None)]
-        if resp_topic == None:
+        if not "resp_topic" in payload:
             return await self.fatal_err("{}: resp_topic required".format(self._name))
 
-        b = await self.read_blk(ds,p)
+        b = await self.read_blk(ds,payload)
 
         # todo: build and send response
-        await self.log("read data: {}".format(b))
+        # await self.log("read data: {}".format(b))
+
+        resp_topic = payload["resp_topic"]
+        await mqtt.publish(resp_topic,b)
 
     async def read_blk(self,ds,p):
-        filter    = p[("filter","#")]
-        max_cnt   = p[("max_cnt",10)]
-        init_pos  = p.get_parm("init_pos",-1)
-        direction = p[("direction","back")]
+        filter = "#"
+        max_cnt = 10
+        init_pos = -1
+        direction = "back"
+
+        if "filter" in p:
+            filter = p["filter"]
+        if "max_cnt" in p:
+            max_cnt = p["max_cnt"]
+        if "init_pos" in p:
+            init_pos = p["init_pos"]
+        if direction in p:
+            direction = p["direction"]
         
-        print("init_pos: {}".format(init_pos))
         if init_pos == -1:
             init_pos = ds.max_idx() - self.buff_cnt
         
