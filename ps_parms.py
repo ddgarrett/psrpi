@@ -78,7 +78,7 @@ class PsosParms:
     # A 2 value tuple with key and default value
     # where default value returned if key not found.
     def __getitem__(self, key):
-        if type(key) == tuple and len(key == 2):
+        if type(key) == tuple and len(key) == 2:
             # assume I have a default value
             return self.get_parm(key[0],key[1])
         
