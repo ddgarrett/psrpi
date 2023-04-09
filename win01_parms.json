@@ -15,10 +15,13 @@
             "pub_msg":[    "upd",         "upd",        "upd",        "upd"],
             "pub_topics": ["e01/dht/upd", "emp/dht/upd","e02/dht/upd","e04/dht/upd"] },
             
-        {"name": "ds",      "module":"mod_ds", "sub":"#",
-                "fn":"mqtt_dat.txt", "fn_idx":"mqtt_idx.txt" }
+        {"name": "ds",     "module":"mod_ds", "sub":"#",
+            "fn":"mqtt_dat.txt", "fn_idx":"mqtt_idx.txt" },
 
-     ],
+        {"name": "d_get",  "module":"mod_ds_get", "ds":"ds", "sub":"{sys}/ds/get",
+            "buff_cnt":20 }
+
+],
 
      "removed":[
         {"name": "ds",      "module":"mod_ds", "sub":"#",
