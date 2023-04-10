@@ -18,8 +18,7 @@
         {"name": "ds",     "module":"mod_ds", "sub":"#",
             "fn":"mqtt_dat.txt", "fn_idx":"mqtt_idx.txt" },
 
-        {"name": "d_get",  "module":"mod_ds_get", "ds":"ds", "sub":"{sys}/ds/get",
-            "buff_cnt":20 }
+        {"name": "d_get",  "module":"mod_ds_get", "ds":"ds", "sub":"{sys}/ds/get" }
 
 ],
 

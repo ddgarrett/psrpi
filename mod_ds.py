@@ -86,31 +86,66 @@ class ModuleService(PsrpiModule):
     def max_idx(self):
         return int(round(file_sz(self.fn_idx)/4) - 1)
     
-    # return a block of log file entries starting at number idx,
-    # where idx is the number of a line in the log file
-    async def read_log_blk(self,idx,cnt):      
-        print("idx: {}, cnt: {}".format(idx,cnt))      
-        sz = file_sz(self.fn_idx)
+    # Return a page of row entries starting at entry init_pos,
+    # where init_pos is the index number of a line in the data file where
+    # index 0 is the first line. 
+    async def read_page(self,blk_cnt,init_pos,direction):
+        if direction == "back":
+            return await self.read_back(blk_cnt,init_pos)
+        else:
+            return await self.read_fwd(blk_cnt,init_pos)
 
-        p = idx * 4
-        if p > sz:
+    
+    # Return a list of rows reading backward from row init_pos.
+    async def read_back(self,blk_cnt,init_pos):
+        if init_pos < 0:
             return []
+        
+        start = init_pos - blk_cnt + 1
+        if start < 0:
+            blk_cnt = blk_cnt + start
+            start = 0
 
-        p2 = (0,)
+        pos = self._get_idx_pos(start)
+        return self._get_blk(pos,blk_cnt)
+    
+    # Return a list of rows reading forward from row init_pos.
+    async def read_fwd(self,blk_cnt,init_pos):
+        if init_pos  > self.max_idx():
+            return []
+        
+        if init_pos < 0:
+            blk_cnt += init_pos
+            init_pos = 0
+
+        pos = self._get_idx_pos(init_pos)
+        return self._get_blk(pos,blk_cnt)
+
+    # Translates a row index in the index file
+    #  to a row position in the data file.
+    # Entry 0 is first indexed entry.
+    def _get_idx_pos(self,row_idx):
+        p = int(row_idx * 4)
+        if p >= file_sz(self.fn_idx):
+            return -1
         
         # "rb" = read binary, otherwise error on read
         with open(self.fn_idx,"rb") as f_idx:
-            # read this main file position from index file
             f_idx.seek(p)
-            p2 = struct.unpack('i', f_idx.read(4))
-            
+            return struct.unpack('i', f_idx.read(4))[0]
+
+    # return a block of lines starting at position pos
+    # until blk_cnt entries are read or eof.
+    # If less than blk_cnt lines are returned then
+    # EOF was hit.
+    def _get_blk(self,pos,blk_cnt):
         lines = []
-        
         with open(self.fn) as f:
-            f.seek(p2[0])
+            f.seek(pos)
             for ln in f:
                 lines.append(ln.rstrip())
-                if len(lines) >= cnt:
+                blk_cnt -= 1
+                if blk_cnt <= 0:
                     return lines
 
         return lines

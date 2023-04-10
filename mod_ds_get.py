@@ -7,7 +7,6 @@
     Module Paramters:
       - ds      : name of mod_ds module that stores data - must be in same json parms
       - sub     : topic for which read requests can be made.
-      - buff_cnt: number of rows to read at one time when responding to read requests
 
     Note that this module uses the "ds" module to read blocks of data.
 
@@ -18,6 +17,7 @@
         - filter     : filter to use in reading data. Default is "#"
         - max_cnt    : maximum number or rows to return. Default is 10.
         - min_cnt    : minimum number of rows to try to return. Default is 0.
+        - blk_cnt    : number of records to read at one time. Default is 10.
         - init_pos   : initial row number in the file, -1 for start at last row, 0 for first row. Default is -1.
         - direction  : direction to read, "fwd" or "back" (forward or backward). Default is "back"
         - follow     : forward updates to the file to resp_topic? true or false. Default is false.
@@ -55,7 +55,6 @@ class ModuleService(PsrpiModule):
 
         self.sub    = self.get_parm("sub",None)
         self.ds     = self.get_parm("ds","ds")
-        self.buff_cnt = self.get_parm("buff_cnt",20)
 
     async def fatal_err(self,msg):
         print(msg)
@@ -80,10 +79,12 @@ class ModuleService(PsrpiModule):
 
         while True:
             data = await q.get()
-            await self.read_data(self.ds,data[2],mqtt)
+            await self.read_data(data[2])
     
     # Read data from ds from payload
-    async def read_data(self,ds,payload,mqtt):
+    async def read_data(self,payload):
+        ds = self.ds
+        mqtt = self.get_mqtt()
         if isinstance(payload,str) and payload.startswith('{'):
             try:
                 payload = json.loads(payload)
@@ -108,21 +109,22 @@ class ModuleService(PsrpiModule):
         await mqtt.publish(resp_topic,b)
 
     async def read_blk(self,ds,p):
-        filter = "#"
-        max_cnt = 10
-        init_pos = -1
+        filter    = "#"
+        max_cnt   = 10
+        blk_cnt   = 10
+        init_pos  = -1
         direction = "back"
+
 
         if "filter" in p:
             filter = p["filter"]
         if "max_cnt" in p:
             max_cnt = p["max_cnt"]
+        if "blk_cnt" in p:
+            blk_cnt = p["blk_cnt"]
         if "init_pos" in p:
             init_pos = p["init_pos"]
-        if direction in p:
+        if "direction" in p:
             direction = p["direction"]
-        
-        if init_pos == -1:
-            init_pos = ds.max_idx() - self.buff_cnt
-        
-        return await ds.read_log_blk(init_pos,max_cnt)
+                
+        return await ds.read_page(blk_cnt,init_pos,direction)
