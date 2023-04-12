@@ -25,7 +25,7 @@ import asyncio
 # import queue
 import gc
 
-from ps_util import to_str,to_bytes,file_sz
+from ps_util import to_str,to_bytes,file_sz, sleep_ms
 import ps_util
 from ps_subscr import Subscription
 import struct
@@ -56,6 +56,8 @@ class ModuleService(PsrpiModule):
     async def save_data(self,topic,payload):
         self.write_idx()
         
+        await sleep_ms(0)
+
         f = open(self.fn,"a")
         f.write(self.get_dt())
         f.write('\t')
@@ -98,28 +100,48 @@ class ModuleService(PsrpiModule):
     
     # Return a list of rows reading backward from row init_pos.
     async def read_back(self,blk_cnt,init_pos):
+        if init_pos == -1:
+            init_pos = self.max_idx()
+
         if init_pos < 0:
-            return []
+            return (-1,[],0 )
         
         start = init_pos - blk_cnt + 1
         if start < 0:
             blk_cnt = blk_cnt + start
             start = 0
 
+        prev_idx = start - 1
+
         pos = self._get_idx_pos(start)
-        return self._get_blk(pos,blk_cnt)
+        result = self._get_blk(pos,blk_cnt)
+
+        next_idx = start + len(result)
+        if next_idx > self.max_idx():
+            next_idx = 0
+
+        return (prev_idx,result,next_idx)
     
     # Return a list of rows reading forward from row init_pos.
     async def read_fwd(self,blk_cnt,init_pos):
         if init_pos  > self.max_idx():
-            return []
+            return(-1,[],0)
         
+        prev_idx = -1
+
         if init_pos < 0:
             blk_cnt += init_pos
             init_pos = 0
+        else:
+            prev_idx = init_pos - 1
 
         pos = self._get_idx_pos(init_pos)
-        return self._get_blk(pos,blk_cnt)
+        result = self._get_blk(pos,blk_cnt)
+        next_idx = init_pos + len(result)
+        if next_idx > self.max_idx():
+            next_idx = 0
+
+        return (prev_idx,result,next_idx)
 
     # Translates a row index in the index file
     #  to a row position in the data file.

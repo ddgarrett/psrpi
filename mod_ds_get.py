@@ -37,7 +37,7 @@ import asyncio
 # import queue
 import gc
 
-from ps_util import to_str,to_bytes,file_sz
+from ps_util import to_str,to_bytes,file_sz, sleep_ms
 import ps_util
 from ps_subscr import Subscription
 import struct
@@ -100,13 +100,11 @@ class ModuleService(PsrpiModule):
         if not "resp_topic" in payload:
             return await self.fatal_err("{}: resp_topic required".format(self._name))
 
-        b = await self.read_blk(ds,payload)
+        (prev_idx,b,next_idx)  = await self.read_blk(ds,payload)
 
-        # todo: build and send response
-        # await self.log("read data: {}".format(b))
-
+        result = {"prev_idx":prev_idx, "data":b, "next_idx":next_idx}
         resp_topic = payload["resp_topic"]
-        await mqtt.publish(resp_topic,b)
+        await mqtt.publish(resp_topic,result)
 
     async def read_blk(self,ds,p):
         filter    = "#"
@@ -114,7 +112,6 @@ class ModuleService(PsrpiModule):
         blk_cnt   = 10
         init_pos  = -1
         direction = "back"
-
 
         if "filter" in p:
             filter = p["filter"]
@@ -127,4 +124,6 @@ class ModuleService(PsrpiModule):
         if "direction" in p:
             direction = p["direction"]
                 
+       # resp = []
+
         return await ds.read_page(blk_cnt,init_pos,direction)
