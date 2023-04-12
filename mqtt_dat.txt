@@ -1,0 +1,2177 @@
+4/9/2023 9:12:15	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9
+4/9/2023 9:12:15	cam02/log	Uploading picture... 
+4/9/2023 9:12:15	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5
+4/9/2023 9:12:15	cam01/log	Uploading picture... 
+4/9/2023 9:12:28	e01/dht/upd	upd
+4/9/2023 9:12:28	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 61"}
+4/9/2023 9:12:31	emp/dht/upd	upd
+4/9/2023 9:12:31	emp/dht	{"dev": "emp", "hum": " 44", "temp": " 70"}
+4/9/2023 9:12:34	e02/dht/upd	upd
+4/9/2023 9:12:35	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 64"}
+4/9/2023 9:12:37	e04/dht/upd	upd
+4/9/2023 9:12:37	e04/dht	{"dev": "e04", "hum": " 57", "temp": " 63"}
+4/9/2023 9:14:44	emp/dht	{"dev": "emp", "hum": " 44", "temp": " 70"}
+4/9/2023 9:14:46	e01/dht/upd	106
+4/9/2023 9:14:46	e01/dht	{"dev": "e01", "hum": " 67", "temp": " 62"}
+4/9/2023 9:14:47	e02/dht/upd	150
+4/9/2023 9:14:48	e02/dht	{"dev": "e02", "hum": " 60", "temp": " 66"}
+4/9/2023 9:17:15	e01/dht/upd	upd
+4/9/2023 9:17:15	e01/dht	{"dev": "e01", "hum": " 66", "temp": " 63"}
+4/9/2023 9:17:18	emp/dht/upd	upd
+4/9/2023 9:17:19	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/9/2023 9:17:21	e02/dht/upd	upd
+4/9/2023 9:17:21	e02/dht	{"dev": "e02", "hum": " 59", "temp": " 66"}
+4/9/2023 9:17:24	e04/dht/upd	upd
+4/9/2023 9:17:24	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/9/2023 9:17:28	e01/dht/upd	upd
+4/9/2023 9:17:28	e01/dht	{"dev": "e01", "hum": " 65", "temp": " 63"}
+4/9/2023 9:17:31	emp/dht/upd	upd
+4/9/2023 9:17:31	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/9/2023 9:17:34	e02/dht/upd	upd
+4/9/2023 9:17:34	e02/dht	{"dev": "e02", "hum": " 58", "temp": " 67"}
+4/9/2023 9:17:37	e04/dht/upd	upd
+4/9/2023 9:17:38	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 68"}
+4/9/2023 9:20:02	e01/dht/upd	154
+4/9/2023 9:20:03	e01/dht	{"dev": "e01", "hum": " 65", "temp": " 63"}
+4/9/2023 9:20:05	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/9/2023 9:20:06	e02/dht/upd	154
+4/9/2023 9:20:06	e02/dht	{"dev": "e02", "hum": " 58", "temp": " 67"}
+4/9/2023 9:20:07	e04/dht/upd	270
+4/9/2023 9:20:08	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 68"}
+4/9/2023 9:22:15	e01/dht/upd	upd
+4/9/2023 9:22:16	e01/dht	{"dev": "e01", "hum": " 65", "temp": " 64"}
+4/9/2023 9:22:18	emp/dht/upd	upd
+4/9/2023 9:22:19	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:22:21	e02/dht/upd	upd
+4/9/2023 9:22:22	e02/dht	{"dev": "e02", "hum": " 58", "temp": " 68"}
+4/9/2023 9:22:24	e04/dht/upd	upd
+4/9/2023 9:22:25	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 70"}
+4/9/2023 9:22:28	e01/dht/upd	upd
+4/9/2023 9:22:28	e01/dht	{"dev": "e01", "hum": " 64", "temp": " 64"}
+4/9/2023 9:22:31	emp/dht/upd	upd
+4/9/2023 9:22:32	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:22:34	e02/dht/upd	upd
+4/9/2023 9:22:34	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 68"}
+4/9/2023 9:22:37	e04/dht/upd	upd
+4/9/2023 9:22:37	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 70"}
+4/9/2023 9:27:15	e01/dht/upd	upd
+4/9/2023 9:27:16	e01/dht	{"dev": "e01", "hum": " 64", "temp": " 64"}
+4/9/2023 9:27:18	emp/dht/upd	upd
+4/9/2023 9:27:19	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:27:21	e02/dht/upd	upd
+4/9/2023 9:27:22	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 68"}
+4/9/2023 9:27:24	e04/dht/upd	upd
+4/9/2023 9:27:25	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 70"}
+4/9/2023 9:27:28	e01/dht/upd	upd
+4/9/2023 9:27:28	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 65"}
+4/9/2023 9:27:31	emp/dht/upd	upd
+4/9/2023 9:27:31	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:27:34	e02/dht/upd	upd
+4/9/2023 9:27:34	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 69"}
+4/9/2023 9:27:37	e04/dht/upd	upd
+4/9/2023 9:27:37	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/9/2023 9:32:15	e01/dht/upd	upd
+4/9/2023 9:32:16	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 65"}
+4/9/2023 9:32:18	emp/dht/upd	upd
+4/9/2023 9:32:19	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:32:21	e02/dht/upd	upd
+4/9/2023 9:32:22	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 69"}
+4/9/2023 9:32:24	e04/dht/upd	upd
+4/9/2023 9:32:25	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/9/2023 9:32:28	e01/dht/upd	upd
+4/9/2023 9:32:29	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 65"}
+4/9/2023 9:32:31	emp/dht/upd	upd
+4/9/2023 9:32:31	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:32:34	e02/dht/upd	upd
+4/9/2023 9:32:34	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/9/2023 9:32:37	e04/dht/upd	upd
+4/9/2023 9:32:38	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/9/2023 9:37:15	e01/dht/upd	upd
+4/9/2023 9:37:15	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 65"}
+4/9/2023 9:37:18	emp/dht/upd	upd
+4/9/2023 9:37:19	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:37:21	e02/dht/upd	upd
+4/9/2023 9:37:22	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/9/2023 9:37:24	e04/dht/upd	upd
+4/9/2023 9:37:25	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/9/2023 9:37:28	e01/dht/upd	upd
+4/9/2023 9:37:28	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 66"}
+4/9/2023 9:37:31	emp/dht/upd	upd
+4/9/2023 9:37:32	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:37:34	e02/dht/upd	upd
+4/9/2023 9:37:34	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/9/2023 9:37:37	e04/dht/upd	upd
+4/9/2023 9:37:37	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/9/2023 9:42:15	e01/dht/upd	upd
+4/9/2023 9:42:16	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 66"}
+4/9/2023 9:42:18	emp/dht/upd	upd
+4/9/2023 9:42:19	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:42:21	e02/dht/upd	upd
+4/9/2023 9:42:22	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/9/2023 9:42:24	e04/dht/upd	upd
+4/9/2023 9:42:25	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/9/2023 9:42:28	e01/dht/upd	upd
+4/9/2023 9:42:28	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 66"}
+4/9/2023 9:42:31	emp/dht/upd	upd
+4/9/2023 9:42:31	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:42:34	e02/dht/upd	upd
+4/9/2023 9:42:34	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 69"}
+4/9/2023 9:42:37	e04/dht/upd	upd
+4/9/2023 9:42:37	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 70"}
+4/9/2023 9:47:15	e01/dht/upd	upd
+4/9/2023 9:47:16	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 66"}
+4/9/2023 9:47:18	emp/dht/upd	upd
+4/9/2023 9:47:19	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:47:21	e02/dht/upd	upd
+4/9/2023 9:47:22	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 69"}
+4/9/2023 9:47:24	e04/dht/upd	upd
+4/9/2023 9:47:24	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 70"}
+4/9/2023 9:47:28	e01/dht/upd	upd
+4/9/2023 9:47:28	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 66"}
+4/9/2023 9:47:31	emp/dht/upd	upd
+4/9/2023 9:47:31	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:47:34	e02/dht/upd	upd
+4/9/2023 9:47:34	e02/dht	{"dev": "e02", "hum": " 58", "temp": " 68"}
+4/9/2023 9:47:37	e04/dht/upd	upd
+4/9/2023 9:47:37	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 66"}
+4/9/2023 9:52:15	e01/dht/upd	upd
+4/9/2023 9:52:16	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 66"}
+4/9/2023 9:52:18	emp/dht/upd	upd
+4/9/2023 9:52:18	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:52:21	e02/dht/upd	upd
+4/9/2023 9:52:21	e02/dht	{"dev": "e02", "hum": " 58", "temp": " 68"}
+4/9/2023 9:52:24	e04/dht/upd	upd
+4/9/2023 9:52:25	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/9/2023 9:52:28	e01/dht/upd	upd
+4/9/2023 9:52:28	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 65"}
+4/9/2023 9:52:31	emp/dht/upd	upd
+4/9/2023 9:52:31	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 72"}
+4/9/2023 9:52:34	e02/dht/upd	upd
+4/9/2023 9:52:34	e02/dht	{"dev": "e02", "hum": " 58", "temp": " 68"}
+4/9/2023 9:52:37	e04/dht/upd	upd
+4/9/2023 9:52:38	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 9:55:28	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9
+4/10/2023 9:55:28	cam02/log	Uploading picture... 
+4/10/2023 9:55:28	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5
+4/10/2023 9:55:28	cam01/log	Uploading picture... 
+4/10/2023 9:57:30	e01/dht/upd	upd
+4/10/2023 9:57:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 9:57:33	emp/dht/upd	upd
+4/10/2023 9:57:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 9:57:36	e02/dht/upd	upd
+4/10/2023 9:57:36	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 68"}
+4/10/2023 9:57:39	e04/dht/upd	upd
+4/10/2023 9:57:39	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 66"}
+4/10/2023 9:59:49	win01/ds/get	{"resp_topic":"tst01/get","init_pos":0, "max_cnt":10}
+4/10/2023 10:00:28	e01/dht/upd	upd
+4/10/2023 10:00:28	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 10:00:31	emp/dht/upd	upd
+4/10/2023 10:00:31	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:00:34	e02/dht/upd	upd
+4/10/2023 10:00:34	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:00:37	e04/dht/upd	upd
+4/10/2023 10:00:37	e04/dht	{"dev": "e04", "hum": " 51", "temp": " 68"}
+4/10/2023 10:02:00	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9
+4/10/2023 10:02:00	cam02/log	Uploading picture... 
+4/10/2023 10:02:00	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5
+4/10/2023 10:02:00	cam01/log	Uploading picture... 
+4/10/2023 10:02:16	win01/ds/get	{"resp_topic":"tst01/get","init_pos":0, "max_cnt":10}
+4/10/2023 10:02:16	tst01/get	["4/9/2023 9:12:15\tcam02\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9"]
+4/10/2023 10:02:30	e01/dht/upd	upd
+4/10/2023 10:02:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 10:02:33	emp/dht/upd	upd
+4/10/2023 10:02:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:02:36	e02/dht/upd	upd
+4/10/2023 10:02:36	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:02:39	e04/dht/upd	upd
+4/10/2023 10:02:39	e04/dht	{"dev": "e04", "hum": " 51", "temp": " 66"}
+4/10/2023 10:03:11	win01/ds/get	{"resp_topic":"tst01/get","init_pos":10, "max_cnt":10}
+4/10/2023 10:03:11	tst01/get	["4/9/2023 9:12:15\tcam02/log\tUploading picture...", "4/9/2023 9:12:15\tcam01\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5", "4/9/2023 9:12:15\tcam01/log\tUploading picture...", "4/9/2023 9:12:28\te01/dht/upd\tupd", "4/9/2023 9:12:28\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 69\", \"temp\": \" 61\"}", "4/9/2023 9:12:31\temp/dht/upd\tupd", "4/9/2023 9:12:31\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 44\", \"temp\": \" 70\"}", "4/9/2023 9:12:34\te02/dht/upd\tupd", "4/9/2023 9:12:35\te02/dht\t{\"dev\": \"e02\", \"hum\": \" 62\", \"temp\": \" 64\"}", "4/9/2023 9:12:37\te04/dht/upd\tupd"]
+4/10/2023 10:07:00	e01/dht/upd	upd
+4/10/2023 10:07:00	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:07:03	emp/dht/upd	upd
+4/10/2023 10:07:03	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:07:06	e02/dht/upd	upd
+4/10/2023 10:07:06	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:07:09	e04/dht/upd	upd
+4/10/2023 10:07:09	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 66"}
+4/10/2023 10:07:30	e01/dht/upd	upd
+4/10/2023 10:07:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:07:33	emp/dht/upd	upd
+4/10/2023 10:07:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:07:59	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9
+4/10/2023 10:07:59	cam02/log	Uploading picture... 
+4/10/2023 10:07:59	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5
+4/10/2023 10:07:59	cam01/log	Uploading picture... 
+4/10/2023 10:08:32	win01/ds/get	{"resp_topic":"tst01/get","init_pos":10, "max_cnt":10, "direction":"fwd"}
+4/10/2023 10:08:32	tst01/get	["4/9/2023 9:12:37\te04/dht/upd\tupd", "4/9/2023 9:12:37\te04/dht\t{\"dev\": \"e04\", \"hum\": \" 57\", \"temp\": \" 63\"}", "4/9/2023 9:14:44\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 44\", \"temp\": \" 70\"}", "4/9/2023 9:14:46\te01/dht/upd\t106", "4/9/2023 9:14:46\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 67\", \"temp\": \" 62\"}", "4/9/2023 9:14:47\te02/dht/upd\t150", "4/9/2023 9:14:48\te02/dht\t{\"dev\": \"e02\", \"hum\": \" 60\", \"temp\": \" 66\"}", "4/9/2023 9:17:15\te01/dht/upd\tupd", "4/9/2023 9:17:15\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 66\", \"temp\": \" 63\"}", "4/9/2023 9:17:18\temp/dht/upd\tupd"]
+4/10/2023 10:09:47	win01/ds/get	{"resp_topic":"tst01/get","init_pos":0, "max_cnt":10, "direction":"fwd"}
+4/10/2023 10:09:47	tst01/get	["4/9/2023 9:12:15\tcam02\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9", "4/9/2023 9:12:15\tcam02/log\tUploading picture...", "4/9/2023 9:12:15\tcam01\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5", "4/9/2023 9:12:15\tcam01/log\tUploading picture...", "4/9/2023 9:12:28\te01/dht/upd\tupd", "4/9/2023 9:12:28\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 69\", \"temp\": \" 61\"}", "4/9/2023 9:12:31\temp/dht/upd\tupd", "4/9/2023 9:12:31\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 44\", \"temp\": \" 70\"}", "4/9/2023 9:12:34\te02/dht/upd\tupd", "4/9/2023 9:12:35\te02/dht\t{\"dev\": \"e02\", \"hum\": \" 62\", \"temp\": \" 64\"}"]
+4/10/2023 10:10:00	win01/ds/get	{"resp_topic":"tst01/get","init_pos":-1, "max_cnt":10, "direction":"fwd"}
+4/10/2023 10:12:30	e01/dht/upd	upd
+4/10/2023 10:12:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:12:33	emp/dht/upd	upd
+4/10/2023 10:12:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:12:36	e02/dht/upd	upd
+4/10/2023 10:12:36	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:12:39	e04/dht/upd	upd
+4/10/2023 10:12:39	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 66"}
+4/10/2023 10:12:58	e01/dht/upd	upd
+4/10/2023 10:12:59	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:13:01	emp/dht/upd	upd
+4/10/2023 10:13:02	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:13:04	e02/dht/upd	upd
+4/10/2023 10:13:05	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:13:07	e04/dht/upd	upd
+4/10/2023 10:13:08	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 10:13:20	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9
+4/10/2023 10:13:20	cam02/log	Uploading picture... 
+4/10/2023 10:13:20	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5
+4/10/2023 10:13:20	cam01/log	Uploading picture... 
+4/10/2023 10:13:40	win01/ds/get	{"resp_topic":"tst01/get","init_pos":-1, "max_cnt":10, "direction":"fwd"}
+4/10/2023 10:13:40	tst01/get	["4/9/2023 9:12:15\tcam02\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9", "4/9/2023 9:12:15\tcam02/log\tUploading picture...", "4/9/2023 9:12:15\tcam01\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5", "4/9/2023 9:12:15\tcam01/log\tUploading picture...", "4/9/2023 9:12:28\te01/dht/upd\tupd", "4/9/2023 9:12:28\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 69\", \"temp\": \" 61\"}", "4/9/2023 9:12:31\temp/dht/upd\tupd", "4/9/2023 9:12:31\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 44\", \"temp\": \" 70\"}", "4/9/2023 9:12:34\te02/dht/upd\tupd"]
+4/10/2023 10:17:30	e01/dht/upd	upd
+4/10/2023 10:17:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:17:33	emp/dht/upd	upd
+4/10/2023 10:17:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:17:36	e02/dht/upd	upd
+4/10/2023 10:17:36	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:17:39	e04/dht/upd	upd
+4/10/2023 10:17:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 10:18:20	e01/dht/upd	upd
+4/10/2023 10:18:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:18:23	emp/dht/upd	upd
+4/10/2023 10:18:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:18:26	e02/dht/upd	upd
+4/10/2023 10:18:26	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:18:29	e04/dht/upd	upd
+4/10/2023 10:18:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:22:30	e01/dht/upd	upd
+4/10/2023 10:22:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:22:33	emp/dht/upd	upd
+4/10/2023 10:22:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:22:36	e02/dht/upd	upd
+4/10/2023 10:22:36	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:22:39	e04/dht/upd	upd
+4/10/2023 10:22:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:23:20	e01/dht/upd	upd
+4/10/2023 10:23:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:23:23	emp/dht/upd	upd
+4/10/2023 10:23:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:23:26	e02/dht/upd	upd
+4/10/2023 10:23:26	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:23:29	e04/dht/upd	upd
+4/10/2023 10:23:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:27:30	e01/dht/upd	upd
+4/10/2023 10:27:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:27:33	emp/dht/upd	upd
+4/10/2023 10:27:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:27:36	e02/dht/upd	upd
+4/10/2023 10:27:36	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:27:39	e04/dht/upd	upd
+4/10/2023 10:27:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:28:20	e01/dht/upd	upd
+4/10/2023 10:28:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:28:23	emp/dht/upd	upd
+4/10/2023 10:28:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:28:26	e02/dht/upd	upd
+4/10/2023 10:28:26	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:28:29	e04/dht/upd	upd
+4/10/2023 10:28:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:32:30	e01/dht/upd	upd
+4/10/2023 10:32:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:32:33	emp/dht/upd	upd
+4/10/2023 10:32:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:32:36	e02/dht/upd	upd
+4/10/2023 10:32:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:32:39	e04/dht/upd	upd
+4/10/2023 10:32:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:33:20	e01/dht/upd	upd
+4/10/2023 10:33:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 10:33:23	emp/dht/upd	upd
+4/10/2023 10:33:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:33:26	e02/dht/upd	upd
+4/10/2023 10:33:26	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:33:29	e04/dht/upd	upd
+4/10/2023 10:33:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:37:30	e01/dht/upd	upd
+4/10/2023 10:37:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:37:33	emp/dht/upd	upd
+4/10/2023 10:37:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:37:36	e02/dht/upd	upd
+4/10/2023 10:37:36	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:37:39	e04/dht/upd	upd
+4/10/2023 10:37:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:38:20	e01/dht/upd	upd
+4/10/2023 10:38:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:38:23	emp/dht/upd	upd
+4/10/2023 10:38:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:38:26	e02/dht/upd	upd
+4/10/2023 10:38:26	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 69"}
+4/10/2023 10:38:29	e04/dht/upd	upd
+4/10/2023 10:38:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:42:30	e01/dht/upd	upd
+4/10/2023 10:42:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:42:33	emp/dht/upd	upd
+4/10/2023 10:42:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:42:36	e02/dht/upd	upd
+4/10/2023 10:42:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:42:39	e04/dht/upd	upd
+4/10/2023 10:42:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:43:20	e01/dht/upd	upd
+4/10/2023 10:43:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:43:23	emp/dht/upd	upd
+4/10/2023 10:43:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:43:26	e02/dht/upd	upd
+4/10/2023 10:43:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:43:29	e04/dht/upd	upd
+4/10/2023 10:43:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:47:30	e01/dht/upd	upd
+4/10/2023 10:47:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:47:33	emp/dht/upd	upd
+4/10/2023 10:47:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:47:36	e02/dht/upd	upd
+4/10/2023 10:47:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:47:39	e04/dht/upd	upd
+4/10/2023 10:47:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:48:20	e01/dht/upd	upd
+4/10/2023 10:48:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:48:23	emp/dht/upd	upd
+4/10/2023 10:48:24	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:48:26	e02/dht/upd	upd
+4/10/2023 10:48:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:48:29	e04/dht/upd	upd
+4/10/2023 10:48:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:52:30	e01/dht/upd	upd
+4/10/2023 10:52:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:52:33	emp/dht/upd	upd
+4/10/2023 10:52:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:52:36	e02/dht/upd	upd
+4/10/2023 10:52:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:52:39	e04/dht/upd	upd
+4/10/2023 10:52:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:53:20	e01/dht/upd	upd
+4/10/2023 10:53:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 10:53:23	emp/dht/upd	upd
+4/10/2023 10:53:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:53:26	e02/dht/upd	upd
+4/10/2023 10:53:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:53:29	e04/dht/upd	upd
+4/10/2023 10:53:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:57:30	e01/dht/upd	upd
+4/10/2023 10:57:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 10:57:33	emp/dht/upd	upd
+4/10/2023 10:57:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:57:36	e02/dht/upd	upd
+4/10/2023 10:57:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:57:39	e04/dht/upd	upd
+4/10/2023 10:57:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 10:58:20	e01/dht/upd	upd
+4/10/2023 10:58:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 10:58:23	emp/dht/upd	upd
+4/10/2023 10:58:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 10:58:26	e02/dht/upd	upd
+4/10/2023 10:58:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 10:58:29	e04/dht/upd	upd
+4/10/2023 10:58:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:02:30	e01/dht/upd	upd
+4/10/2023 11:02:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:02:33	emp/dht/upd	upd
+4/10/2023 11:02:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:02:36	e02/dht/upd	upd
+4/10/2023 11:02:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:02:39	e04/dht/upd	upd
+4/10/2023 11:02:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:03:20	e01/dht/upd	upd
+4/10/2023 11:03:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:03:23	emp/dht/upd	upd
+4/10/2023 11:03:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:03:26	e02/dht/upd	upd
+4/10/2023 11:03:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:03:29	e04/dht/upd	upd
+4/10/2023 11:03:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:07:30	e01/dht/upd	upd
+4/10/2023 11:07:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:07:33	emp/dht/upd	upd
+4/10/2023 11:07:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:07:36	e02/dht/upd	upd
+4/10/2023 11:07:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:07:39	e04/dht/upd	upd
+4/10/2023 11:07:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 64"}
+4/10/2023 11:08:20	e01/dht/upd	upd
+4/10/2023 11:08:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:08:23	emp/dht/upd	upd
+4/10/2023 11:08:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:08:26	e02/dht/upd	upd
+4/10/2023 11:08:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:08:29	e04/dht/upd	upd
+4/10/2023 11:08:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 64"}
+4/10/2023 11:12:30	e01/dht/upd	upd
+4/10/2023 11:12:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:12:33	emp/dht/upd	upd
+4/10/2023 11:12:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:12:36	e02/dht/upd	upd
+4/10/2023 11:12:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:12:39	e04/dht/upd	upd
+4/10/2023 11:12:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 64"}
+4/10/2023 11:13:20	e01/dht/upd	upd
+4/10/2023 11:13:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:13:23	emp/dht/upd	upd
+4/10/2023 11:13:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:13:26	e02/dht/upd	upd
+4/10/2023 11:13:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:13:29	e04/dht/upd	upd
+4/10/2023 11:13:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 64"}
+4/10/2023 11:17:30	e01/dht/upd	upd
+4/10/2023 11:17:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:17:33	emp/dht/upd	upd
+4/10/2023 11:17:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:17:36	e02/dht/upd	upd
+4/10/2023 11:17:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:17:39	e04/dht/upd	upd
+4/10/2023 11:17:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 64"}
+4/10/2023 11:18:20	e01/dht/upd	upd
+4/10/2023 11:18:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:18:23	emp/dht/upd	upd
+4/10/2023 11:18:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:18:26	e02/dht/upd	upd
+4/10/2023 11:18:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:18:29	e04/dht/upd	upd
+4/10/2023 11:18:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 64"}
+4/10/2023 11:22:30	e01/dht/upd	upd
+4/10/2023 11:22:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:22:33	emp/dht/upd	upd
+4/10/2023 11:22:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:22:36	e02/dht/upd	upd
+4/10/2023 11:22:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:22:39	e04/dht/upd	upd
+4/10/2023 11:22:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 64"}
+4/10/2023 11:23:20	e01/dht/upd	upd
+4/10/2023 11:23:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:23:23	emp/dht/upd	upd
+4/10/2023 11:23:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:23:26	e02/dht/upd	upd
+4/10/2023 11:23:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:23:29	e04/dht/upd	upd
+4/10/2023 11:23:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:27:30	e01/dht/upd	upd
+4/10/2023 11:27:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:27:33	emp/dht/upd	upd
+4/10/2023 11:27:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:27:36	e02/dht/upd	upd
+4/10/2023 11:27:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:27:39	e04/dht/upd	upd
+4/10/2023 11:27:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:28:20	e01/dht/upd	upd
+4/10/2023 11:28:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:28:23	emp/dht/upd	upd
+4/10/2023 11:28:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:28:26	e02/dht/upd	upd
+4/10/2023 11:28:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:28:29	e04/dht/upd	upd
+4/10/2023 11:28:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:32:30	e01/dht/upd	upd
+4/10/2023 11:32:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:32:33	emp/dht/upd	upd
+4/10/2023 11:32:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:32:36	e02/dht/upd	upd
+4/10/2023 11:32:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:32:39	e04/dht/upd	upd
+4/10/2023 11:32:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:33:20	e01/dht/upd	upd
+4/10/2023 11:33:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:33:23	emp/dht/upd	upd
+4/10/2023 11:33:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:33:26	e02/dht/upd	upd
+4/10/2023 11:33:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:33:29	e04/dht/upd	upd
+4/10/2023 11:33:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:37:30	e01/dht/upd	upd
+4/10/2023 11:37:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:37:33	emp/dht/upd	upd
+4/10/2023 11:37:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:37:36	e02/dht/upd	upd
+4/10/2023 11:37:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:37:39	e04/dht/upd	upd
+4/10/2023 11:37:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:38:20	e01/dht/upd	upd
+4/10/2023 11:38:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 11:38:23	emp/dht/upd	upd
+4/10/2023 11:38:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:38:26	e02/dht/upd	upd
+4/10/2023 11:38:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:38:29	e04/dht/upd	upd
+4/10/2023 11:38:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:42:30	e01/dht/upd	upd
+4/10/2023 11:42:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:42:33	emp/dht/upd	upd
+4/10/2023 11:42:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:42:36	e02/dht/upd	upd
+4/10/2023 11:42:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:42:39	e04/dht/upd	upd
+4/10/2023 11:42:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:43:20	e01/dht/upd	upd
+4/10/2023 11:43:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:43:23	emp/dht/upd	upd
+4/10/2023 11:43:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:43:26	e02/dht/upd	upd
+4/10/2023 11:43:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:43:29	e04/dht/upd	upd
+4/10/2023 11:43:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:47:30	e01/dht/upd	upd
+4/10/2023 11:47:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:47:33	emp/dht/upd	upd
+4/10/2023 11:47:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:47:36	e02/dht/upd	upd
+4/10/2023 11:47:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:47:39	e04/dht/upd	upd
+4/10/2023 11:47:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:48:20	e01/dht/upd	upd
+4/10/2023 11:48:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:48:23	emp/dht/upd	upd
+4/10/2023 11:48:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:48:26	e02/dht/upd	upd
+4/10/2023 11:48:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:48:29	e04/dht/upd	upd
+4/10/2023 11:48:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:52:30	e01/dht/upd	upd
+4/10/2023 11:52:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:52:33	emp/dht/upd	upd
+4/10/2023 11:52:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:52:36	e02/dht/upd	upd
+4/10/2023 11:52:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:52:39	e04/dht/upd	upd
+4/10/2023 11:52:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:53:20	e01/dht/upd	upd
+4/10/2023 11:53:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:53:23	emp/dht/upd	upd
+4/10/2023 11:53:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:53:26	e02/dht/upd	upd
+4/10/2023 11:53:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:53:29	e04/dht/upd	upd
+4/10/2023 11:53:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:57:30	e01/dht/upd	upd
+4/10/2023 11:57:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:57:33	emp/dht/upd	upd
+4/10/2023 11:57:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:57:36	e02/dht/upd	upd
+4/10/2023 11:57:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 69"}
+4/10/2023 11:57:39	e04/dht/upd	upd
+4/10/2023 11:57:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 11:58:20	e01/dht/upd	upd
+4/10/2023 11:58:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 11:58:23	emp/dht/upd	upd
+4/10/2023 11:58:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 11:58:26	e02/dht/upd	upd
+4/10/2023 11:58:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 70"}
+4/10/2023 11:58:29	e04/dht/upd	upd
+4/10/2023 11:58:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 12:02:30	e01/dht/upd	upd
+4/10/2023 12:02:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 12:02:33	emp/dht/upd	upd
+4/10/2023 12:02:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:02:36	e02/dht/upd	upd
+4/10/2023 12:02:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 70"}
+4/10/2023 12:02:39	e04/dht/upd	upd
+4/10/2023 12:02:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 64"}
+4/10/2023 12:03:20	e01/dht/upd	upd
+4/10/2023 12:03:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 12:03:23	emp/dht/upd	upd
+4/10/2023 12:03:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:03:26	e02/dht/upd	upd
+4/10/2023 12:03:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 70"}
+4/10/2023 12:03:29	e04/dht/upd	upd
+4/10/2023 12:03:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 12:04:51	cam01/click	click
+4/10/2023 12:04:51	cam01/log	Taking a photo...
+4/10/2023 12:04:57	cam01/log	Uploading picture... 
+4/10/2023 12:04:59	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=d1dde34c-978c-4e4c-a4d6-8209288d9e42
+4/10/2023 12:07:30	e01/dht/upd	upd
+4/10/2023 12:07:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 12:07:33	emp/dht/upd	upd
+4/10/2023 12:07:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:07:36	e02/dht/upd	upd
+4/10/2023 12:07:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 70"}
+4/10/2023 12:07:39	e04/dht/upd	upd
+4/10/2023 12:07:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 12:08:20	e01/dht/upd	upd
+4/10/2023 12:08:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 12:08:23	emp/dht/upd	upd
+4/10/2023 12:08:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:08:26	e02/dht/upd	upd
+4/10/2023 12:08:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 70"}
+4/10/2023 12:08:29	e04/dht/upd	upd
+4/10/2023 12:08:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 12:12:30	e01/dht/upd	upd
+4/10/2023 12:12:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 12:12:33	emp/dht/upd	upd
+4/10/2023 12:12:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:12:36	e02/dht/upd	upd
+4/10/2023 12:12:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 70"}
+4/10/2023 12:12:39	e04/dht/upd	upd
+4/10/2023 12:12:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 12:13:20	e01/dht/upd	upd
+4/10/2023 12:13:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 66"}
+4/10/2023 12:13:23	emp/dht/upd	upd
+4/10/2023 12:13:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:13:26	e02/dht/upd	upd
+4/10/2023 12:13:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 70"}
+4/10/2023 12:13:29	e04/dht/upd	upd
+4/10/2023 12:13:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 12:17:30	e01/dht/upd	upd
+4/10/2023 12:17:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 12:17:33	emp/dht/upd	upd
+4/10/2023 12:17:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:17:36	e02/dht/upd	upd
+4/10/2023 12:17:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 70"}
+4/10/2023 12:17:39	e04/dht/upd	upd
+4/10/2023 12:17:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 12:18:20	e01/dht/upd	upd
+4/10/2023 12:18:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 12:18:23	emp/dht/upd	upd
+4/10/2023 12:18:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:18:26	e02/dht/upd	upd
+4/10/2023 12:18:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 70"}
+4/10/2023 12:18:29	e04/dht/upd	upd
+4/10/2023 12:18:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:22:30	e01/dht/upd	upd
+4/10/2023 12:22:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 12:22:33	emp/dht/upd	upd
+4/10/2023 12:22:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:22:36	e02/dht/upd	upd
+4/10/2023 12:22:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 70"}
+4/10/2023 12:22:39	e04/dht/upd	upd
+4/10/2023 12:22:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:23:20	e01/dht/upd	upd
+4/10/2023 12:23:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 12:23:23	emp/dht/upd	upd
+4/10/2023 12:23:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:23:26	e02/dht/upd	upd
+4/10/2023 12:23:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:23:29	e04/dht/upd	upd
+4/10/2023 12:23:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:27:30	e01/dht/upd	upd
+4/10/2023 12:27:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 12:27:33	emp/dht/upd	upd
+4/10/2023 12:27:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:27:36	e02/dht/upd	upd
+4/10/2023 12:27:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:27:39	e04/dht/upd	upd
+4/10/2023 12:27:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:28:20	e01/dht/upd	upd
+4/10/2023 12:28:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 12:28:23	emp/dht/upd	upd
+4/10/2023 12:28:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:28:26	e02/dht/upd	upd
+4/10/2023 12:28:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:28:29	e04/dht/upd	upd
+4/10/2023 12:28:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:32:30	e01/dht/upd	upd
+4/10/2023 12:32:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 12:32:33	emp/dht/upd	upd
+4/10/2023 12:32:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:32:36	e02/dht/upd	upd
+4/10/2023 12:32:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:32:39	e04/dht/upd	upd
+4/10/2023 12:32:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:33:20	e01/dht/upd	upd
+4/10/2023 12:33:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 67"}
+4/10/2023 12:33:23	emp/dht/upd	upd
+4/10/2023 12:33:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:33:26	e02/dht/upd	upd
+4/10/2023 12:33:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:33:29	e04/dht/upd	upd
+4/10/2023 12:33:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:37:30	e01/dht/upd	upd
+4/10/2023 12:37:30	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 66"}
+4/10/2023 12:37:33	emp/dht/upd	upd
+4/10/2023 12:37:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:37:36	e02/dht/upd	upd
+4/10/2023 12:37:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:37:39	e04/dht/upd	upd
+4/10/2023 12:37:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:38:20	e01/dht/upd	upd
+4/10/2023 12:38:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 12:38:23	emp/dht/upd	upd
+4/10/2023 12:38:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:38:26	e02/dht/upd	upd
+4/10/2023 12:38:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:38:29	e04/dht/upd	upd
+4/10/2023 12:38:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:42:30	e01/dht/upd	upd
+4/10/2023 12:42:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 12:42:33	emp/dht/upd	upd
+4/10/2023 12:42:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:42:36	e02/dht/upd	upd
+4/10/2023 12:42:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:42:39	e04/dht/upd	upd
+4/10/2023 12:42:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:43:20	e01/dht/upd	upd
+4/10/2023 12:43:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 12:43:23	emp/dht/upd	upd
+4/10/2023 12:43:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:43:26	e02/dht/upd	upd
+4/10/2023 12:43:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:43:29	e04/dht/upd	upd
+4/10/2023 12:43:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:47:30	e01/dht/upd	upd
+4/10/2023 12:47:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 12:47:33	emp/dht/upd	upd
+4/10/2023 12:47:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 12:47:36	e02/dht/upd	upd
+4/10/2023 12:47:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:47:39	e04/dht/upd	upd
+4/10/2023 12:47:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:48:20	e01/dht/upd	upd
+4/10/2023 12:48:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 12:48:23	emp/dht/upd	upd
+4/10/2023 12:48:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:48:26	e02/dht/upd	upd
+4/10/2023 12:48:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:48:29	e04/dht/upd	upd
+4/10/2023 12:48:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:52:30	e01/dht/upd	upd
+4/10/2023 12:52:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 12:52:33	emp/dht/upd	upd
+4/10/2023 12:52:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:52:36	e02/dht/upd	upd
+4/10/2023 12:52:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:52:39	e04/dht/upd	upd
+4/10/2023 12:52:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 66"}
+4/10/2023 12:52:50	cam01/click	click
+4/10/2023 12:52:50	cam01/log	Taking a photo...
+4/10/2023 12:52:54	cam01/log	Uploading picture... 
+4/10/2023 12:52:56	cam02/click	click
+4/10/2023 12:52:56	cam02/log	Taking a photo...
+4/10/2023 12:52:56	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=aad292f1-110f-45de-8dfc-687113b19d6a
+4/10/2023 12:53:00	cam02/log	Taking a photo...
+4/10/2023 12:53:04	cam02/log	Uploading picture... 
+4/10/2023 12:53:07	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=90995cf4-ffad-48fa-9c1f-e808d71052b3
+4/10/2023 12:53:15	cam01/click	click
+4/10/2023 12:53:15	cam01/log	Taking a photo...
+4/10/2023 12:53:19	cam01/log	Uploading picture... 
+4/10/2023 12:53:20	e01/dht/upd	upd
+4/10/2023 12:53:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 67"}
+4/10/2023 12:53:21	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=ab28b397-5423-43bc-a3bb-047f5bc32edf
+4/10/2023 12:53:23	emp/dht/upd	upd
+4/10/2023 12:53:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:53:26	e02/dht/upd	upd
+4/10/2023 12:53:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:53:29	e04/dht/upd	upd
+4/10/2023 12:53:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 12:57:30	e01/dht/upd	upd
+4/10/2023 12:57:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 12:57:33	emp/dht/upd	upd
+4/10/2023 12:57:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:57:36	e02/dht/upd	upd
+4/10/2023 12:57:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 71"}
+4/10/2023 12:57:39	e04/dht/upd	upd
+4/10/2023 12:57:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 12:58:20	e01/dht/upd	upd
+4/10/2023 12:58:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 12:58:23	emp/dht/upd	upd
+4/10/2023 12:58:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 12:58:26	e02/dht/upd	upd
+4/10/2023 12:58:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 72"}
+4/10/2023 12:58:29	e04/dht/upd	upd
+4/10/2023 12:58:29	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 13:02:30	e01/dht/upd	upd
+4/10/2023 13:02:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 13:02:33	emp/dht/upd	upd
+4/10/2023 13:02:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 13:02:36	e02/dht/upd	upd
+4/10/2023 13:02:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:02:39	e04/dht/upd	upd
+4/10/2023 13:02:39	e04/dht	{"dev": "e04", "hum": " 53", "temp": " 66"}
+4/10/2023 13:03:20	e01/dht/upd	upd
+4/10/2023 13:03:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 13:03:23	emp/dht/upd	upd
+4/10/2023 13:03:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 13:03:26	e02/dht/upd	upd
+4/10/2023 13:03:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:03:29	e04/dht/upd	upd
+4/10/2023 13:03:29	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 68"}
+4/10/2023 13:07:30	e01/dht/upd	upd
+4/10/2023 13:07:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 13:07:33	emp/dht/upd	upd
+4/10/2023 13:07:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 13:07:36	e02/dht/upd	upd
+4/10/2023 13:07:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:07:39	e04/dht/upd	upd
+4/10/2023 13:07:39	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 68"}
+4/10/2023 13:08:20	e01/dht/upd	upd
+4/10/2023 13:08:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 13:08:23	emp/dht/upd	upd
+4/10/2023 13:08:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 13:08:26	e02/dht/upd	upd
+4/10/2023 13:08:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:08:29	e04/dht/upd	upd
+4/10/2023 13:08:29	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 68"}
+4/10/2023 13:12:30	e01/dht/upd	upd
+4/10/2023 13:12:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 13:12:33	emp/dht/upd	upd
+4/10/2023 13:12:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:12:36	e02/dht/upd	upd
+4/10/2023 13:12:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:12:39	e04/dht/upd	upd
+4/10/2023 13:12:39	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 68"}
+4/10/2023 13:13:20	e01/dht/upd	upd
+4/10/2023 13:13:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 13:13:23	emp/dht/upd	upd
+4/10/2023 13:13:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:13:26	e02/dht/upd	upd
+4/10/2023 13:13:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:13:29	e04/dht/upd	upd
+4/10/2023 13:13:29	e04/dht	{"dev": "e04", "hum": " 51", "temp": " 68"}
+4/10/2023 13:17:30	e01/dht/upd	upd
+4/10/2023 13:17:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 67"}
+4/10/2023 13:17:33	emp/dht/upd	upd
+4/10/2023 13:17:36	e02/dht/upd	upd
+4/10/2023 13:17:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:17:39	e04/dht/upd	upd
+4/10/2023 13:17:39	e04/dht	{"dev": "e04", "hum": " 51", "temp": " 68"}
+4/10/2023 13:18:05	emp/log	mqtt: resubscr emp/lcd
+4/10/2023 13:18:05	emp/log	mqtt: resubscr emp/dht/upd
+4/10/2023 13:18:05	emp/log	mqtt: resubscr emp/mem/upd
+4/10/2023 13:18:05	emp/log	mqtt: resubscr +/dht
+4/10/2023 13:18:20	e01/dht/upd	upd
+4/10/2023 13:18:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:18:23	emp/dht/upd	upd
+4/10/2023 13:18:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:18:26	e02/dht/upd	upd
+4/10/2023 13:18:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:18:29	e04/dht/upd	upd
+4/10/2023 13:18:29	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:21:14	cam01/click	click
+4/10/2023 13:21:14	cam01/log	Taking a photo...
+4/10/2023 13:21:18	cam01/log	Uploading picture... 
+4/10/2023 13:21:20	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=f432d6a6-d42d-4566-88ed-bc3e8b0ed4d1
+4/10/2023 13:21:24	cam01/click	click
+4/10/2023 13:21:24	cam01/log	Taking a photo...
+4/10/2023 13:21:28	cam01/log	Uploading picture... 
+4/10/2023 13:21:30	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=133b3914-3bc7-4be9-96dc-652b3dbf2daf
+4/10/2023 13:21:38	cam01/click	click
+4/10/2023 13:21:38	cam01/log	Taking a photo...
+4/10/2023 13:21:42	cam01/log	Uploading picture... 
+4/10/2023 13:21:44	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=044030e0-94fc-4c2c-99d8-60360fa6e4dc
+4/10/2023 13:22:30	e01/dht/upd	upd
+4/10/2023 13:22:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:22:33	emp/dht/upd	upd
+4/10/2023 13:22:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:22:36	e02/dht/upd	upd
+4/10/2023 13:22:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:22:39	e04/dht/upd	upd
+4/10/2023 13:22:39	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:23:20	e01/dht/upd	upd
+4/10/2023 13:23:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:23:23	emp/dht/upd	upd
+4/10/2023 13:23:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:23:26	e02/dht/upd	upd
+4/10/2023 13:23:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:23:29	e04/dht/upd	upd
+4/10/2023 13:23:29	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:27:30	e01/dht/upd	upd
+4/10/2023 13:27:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:27:33	emp/dht/upd	upd
+4/10/2023 13:27:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:27:36	e02/dht/upd	upd
+4/10/2023 13:27:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:27:39	e04/dht/upd	upd
+4/10/2023 13:27:39	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:28:20	e01/dht/upd	upd
+4/10/2023 13:28:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:28:23	emp/dht/upd	upd
+4/10/2023 13:28:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:28:26	e02/dht/upd	upd
+4/10/2023 13:28:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:28:29	e04/dht/upd	upd
+4/10/2023 13:28:29	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:32:30	e01/dht/upd	upd
+4/10/2023 13:32:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:32:33	emp/dht/upd	upd
+4/10/2023 13:32:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:32:36	e02/dht/upd	upd
+4/10/2023 13:32:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 73"}
+4/10/2023 13:32:39	e04/dht/upd	upd
+4/10/2023 13:32:39	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:33:20	e01/dht/upd	upd
+4/10/2023 13:33:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:33:23	emp/dht/upd	upd
+4/10/2023 13:33:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:33:26	e02/dht/upd	upd
+4/10/2023 13:33:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 73"}
+4/10/2023 13:33:29	e04/dht/upd	upd
+4/10/2023 13:33:29	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:37:30	e01/dht/upd	upd
+4/10/2023 13:37:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:37:33	emp/dht/upd	upd
+4/10/2023 13:37:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:37:36	e02/dht/upd	upd
+4/10/2023 13:37:36	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 73"}
+4/10/2023 13:37:39	e04/dht/upd	upd
+4/10/2023 13:37:39	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:38:20	e01/dht/upd	upd
+4/10/2023 13:38:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:38:23	emp/dht/upd	upd
+4/10/2023 13:38:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:38:26	e02/dht/upd	upd
+4/10/2023 13:38:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:38:29	e04/dht/upd	upd
+4/10/2023 13:38:29	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:42:30	e01/dht/upd	upd
+4/10/2023 13:42:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 13:42:33	emp/dht/upd	upd
+4/10/2023 13:42:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:42:36	e02/dht/upd	upd
+4/10/2023 13:42:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:42:39	e04/dht/upd	upd
+4/10/2023 13:42:39	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:43:20	e01/dht/upd	upd
+4/10/2023 13:43:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 13:43:23	emp/dht/upd	upd
+4/10/2023 13:43:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:43:26	e02/dht/upd	upd
+4/10/2023 13:43:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:43:29	e04/dht/upd	upd
+4/10/2023 13:43:29	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:47:30	e01/dht/upd	upd
+4/10/2023 13:47:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 13:47:33	emp/dht/upd	upd
+4/10/2023 13:47:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:47:36	e02/dht/upd	upd
+4/10/2023 13:47:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:47:39	e04/dht/upd	upd
+4/10/2023 13:47:39	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:48:20	e01/dht/upd	upd
+4/10/2023 13:48:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 13:48:23	emp/dht/upd	upd
+4/10/2023 13:48:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:48:26	e02/dht/upd	upd
+4/10/2023 13:48:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:48:29	e04/dht/upd	upd
+4/10/2023 13:48:29	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:52:30	e01/dht/upd	upd
+4/10/2023 13:52:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 13:52:33	emp/dht/upd	upd
+4/10/2023 13:52:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:52:36	e02/dht/upd	upd
+4/10/2023 13:52:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:52:39	e04/dht/upd	upd
+4/10/2023 13:52:39	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:53:20	e01/dht/upd	upd
+4/10/2023 13:53:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 13:53:23	emp/dht/upd	upd
+4/10/2023 13:53:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:53:26	e02/dht/upd	upd
+4/10/2023 13:53:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:53:29	e04/dht/upd	upd
+4/10/2023 13:53:29	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:57:30	e01/dht/upd	upd
+4/10/2023 13:57:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 13:57:33	emp/dht/upd	upd
+4/10/2023 13:57:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:57:36	e02/dht/upd	upd
+4/10/2023 13:57:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:57:39	e04/dht/upd	upd
+4/10/2023 13:57:39	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 13:58:20	e01/dht/upd	upd
+4/10/2023 13:58:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 13:58:23	emp/dht/upd	upd
+4/10/2023 13:58:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 13:58:26	e02/dht/upd	upd
+4/10/2023 13:58:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 13:58:29	e04/dht/upd	upd
+4/10/2023 13:58:29	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 68"}
+4/10/2023 14:02:30	e01/dht/upd	upd
+4/10/2023 14:02:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 67"}
+4/10/2023 14:02:33	emp/dht/upd	upd
+4/10/2023 14:02:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 14:02:36	e02/dht/upd	upd
+4/10/2023 14:02:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 72"}
+4/10/2023 14:02:39	e04/dht/upd	upd
+4/10/2023 14:02:39	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 68"}
+4/10/2023 14:03:20	e01/dht/upd	upd
+4/10/2023 14:03:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:03:23	emp/dht/upd	upd
+4/10/2023 14:03:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 14:03:26	e02/dht/upd	upd
+4/10/2023 14:03:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 14:03:29	e04/dht/upd	upd
+4/10/2023 14:03:29	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 68"}
+4/10/2023 14:07:30	e01/dht/upd	upd
+4/10/2023 14:07:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:07:33	emp/dht/upd	upd
+4/10/2023 14:07:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 14:07:36	e02/dht/upd	upd
+4/10/2023 14:07:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 72"}
+4/10/2023 14:07:39	e04/dht/upd	upd
+4/10/2023 14:07:39	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 68"}
+4/10/2023 14:08:20	e01/dht/upd	upd
+4/10/2023 14:08:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 68"}
+4/10/2023 14:08:23	emp/dht/upd	upd
+4/10/2023 14:08:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 14:08:26	e02/dht/upd	upd
+4/10/2023 14:08:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 14:08:29	e04/dht/upd	upd
+4/10/2023 14:08:29	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 68"}
+4/10/2023 14:12:30	e01/dht/upd	upd
+4/10/2023 14:12:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:12:33	emp/dht/upd	upd
+4/10/2023 14:12:33	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 14:12:36	e02/dht/upd	upd
+4/10/2023 14:12:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 14:12:39	e04/dht/upd	upd
+4/10/2023 14:12:39	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 68"}
+4/10/2023 14:13:20	e01/dht/upd	upd
+4/10/2023 14:13:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:13:23	emp/dht/upd	upd
+4/10/2023 14:13:23	emp/dht	{"dev": "emp", "hum": " 43", "temp": " 70"}
+4/10/2023 14:13:26	e02/dht/upd	upd
+4/10/2023 14:13:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 72"}
+4/10/2023 14:13:29	e04/dht/upd	upd
+4/10/2023 14:13:29	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 14:17:30	e01/dht/upd	upd
+4/10/2023 14:17:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:17:33	emp/dht/upd	upd
+4/10/2023 14:17:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:17:36	e02/dht/upd	upd
+4/10/2023 14:17:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 14:17:39	e04/dht/upd	upd
+4/10/2023 14:17:39	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 14:18:20	e01/dht/upd	upd
+4/10/2023 14:18:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:18:23	emp/dht/upd	upd
+4/10/2023 14:18:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:18:26	e02/dht/upd	upd
+4/10/2023 14:18:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 72"}
+4/10/2023 14:18:29	e04/dht/upd	upd
+4/10/2023 14:18:29	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 14:22:30	e01/dht/upd	upd
+4/10/2023 14:22:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:22:33	emp/dht/upd	upd
+4/10/2023 14:22:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:22:36	e02/dht/upd	upd
+4/10/2023 14:22:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 72"}
+4/10/2023 14:22:39	e04/dht/upd	upd
+4/10/2023 14:22:39	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 14:23:20	e01/dht/upd	upd
+4/10/2023 14:23:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:23:23	emp/dht/upd	upd
+4/10/2023 14:23:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:23:26	e02/dht/upd	upd
+4/10/2023 14:23:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 14:23:29	e04/dht/upd	upd
+4/10/2023 14:23:29	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 14:27:30	e01/dht/upd	upd
+4/10/2023 14:27:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 68"}
+4/10/2023 14:27:33	emp/dht/upd	upd
+4/10/2023 14:27:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:27:36	e02/dht/upd	upd
+4/10/2023 14:27:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 72"}
+4/10/2023 14:27:39	e04/dht/upd	upd
+4/10/2023 14:27:39	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 14:28:20	e01/dht/upd	upd
+4/10/2023 14:28:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 68"}
+4/10/2023 14:28:23	emp/dht/upd	upd
+4/10/2023 14:28:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:28:26	e02/dht/upd	upd
+4/10/2023 14:28:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 14:28:29	e04/dht/upd	upd
+4/10/2023 14:28:29	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 14:32:30	e01/dht/upd	upd
+4/10/2023 14:32:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 68"}
+4/10/2023 14:32:33	emp/dht/upd	upd
+4/10/2023 14:32:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:32:36	e02/dht/upd	upd
+4/10/2023 14:32:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 14:32:39	e04/dht/upd	upd
+4/10/2023 14:32:39	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 14:33:20	e01/dht/upd	upd
+4/10/2023 14:33:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:33:23	emp/dht/upd	upd
+4/10/2023 14:33:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:33:26	e02/dht/upd	upd
+4/10/2023 14:33:26	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 14:33:29	e04/dht/upd	upd
+4/10/2023 14:33:29	e04/dht	{"dev": "e04", "hum": " 47", "temp": " 70"}
+4/10/2023 14:37:30	e01/dht/upd	upd
+4/10/2023 14:37:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:37:33	emp/dht/upd	upd
+4/10/2023 14:37:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:37:36	e02/dht/upd	upd
+4/10/2023 14:37:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 14:37:39	e04/dht/upd	upd
+4/10/2023 14:37:39	e04/dht	{"dev": "e04", "hum": " 47", "temp": " 70"}
+4/10/2023 14:38:20	e01/dht/upd	upd
+4/10/2023 14:38:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:38:23	emp/dht/upd	upd
+4/10/2023 14:38:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:38:26	e02/dht/upd	upd
+4/10/2023 14:38:26	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 14:38:29	e04/dht/upd	upd
+4/10/2023 14:38:29	e04/dht	{"dev": "e04", "hum": " 47", "temp": " 70"}
+4/10/2023 14:42:30	e01/dht/upd	upd
+4/10/2023 14:42:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:42:33	emp/dht/upd	upd
+4/10/2023 14:42:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:42:36	e02/dht/upd	upd
+4/10/2023 14:42:36	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 14:42:39	e04/dht/upd	upd
+4/10/2023 14:42:39	e04/dht	{"dev": "e04", "hum": " 46", "temp": " 70"}
+4/10/2023 14:43:20	e01/dht/upd	upd
+4/10/2023 14:43:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:43:23	emp/dht/upd	upd
+4/10/2023 14:43:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:43:26	e02/dht/upd	upd
+4/10/2023 14:43:26	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 14:43:29	e04/dht/upd	upd
+4/10/2023 14:43:29	e04/dht	{"dev": "e04", "hum": " 46", "temp": " 70"}
+4/10/2023 14:47:30	e01/dht/upd	upd
+4/10/2023 14:47:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:47:33	emp/dht/upd	upd
+4/10/2023 14:47:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:47:36	e02/dht/upd	upd
+4/10/2023 14:47:36	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 14:47:39	e04/dht/upd	upd
+4/10/2023 14:47:39	e04/dht	{"dev": "e04", "hum": " 46", "temp": " 70"}
+4/10/2023 14:48:20	e01/dht/upd	upd
+4/10/2023 14:48:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:48:23	emp/dht/upd	upd
+4/10/2023 14:48:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:48:26	e02/dht/upd	upd
+4/10/2023 14:48:26	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 14:48:29	e04/dht/upd	upd
+4/10/2023 14:48:29	e04/dht	{"dev": "e04", "hum": " 46", "temp": " 70"}
+4/10/2023 14:52:30	e01/dht/upd	upd
+4/10/2023 14:52:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:52:33	emp/dht/upd	upd
+4/10/2023 14:52:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:52:36	e02/dht/upd	upd
+4/10/2023 14:52:36	e02/dht	{"dev": "e02", "hum": " 51", "temp": " 72"}
+4/10/2023 14:52:39	e04/dht/upd	upd
+4/10/2023 14:52:39	e04/dht	{"dev": "e04", "hum": " 46", "temp": " 70"}
+4/10/2023 14:53:20	e01/dht/upd	upd
+4/10/2023 14:53:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:53:23	emp/dht/upd	upd
+4/10/2023 14:53:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:53:26	e02/dht/upd	upd
+4/10/2023 14:53:26	e02/dht	{"dev": "e02", "hum": " 51", "temp": " 72"}
+4/10/2023 14:53:29	e04/dht/upd	upd
+4/10/2023 14:53:29	e04/dht	{"dev": "e04", "hum": " 47", "temp": " 70"}
+4/10/2023 14:57:30	e01/dht/upd	upd
+4/10/2023 14:57:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:57:33	emp/dht/upd	upd
+4/10/2023 14:57:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:57:36	e02/dht/upd	upd
+4/10/2023 14:57:36	e02/dht	{"dev": "e02", "hum": " 51", "temp": " 72"}
+4/10/2023 14:57:39	e04/dht/upd	upd
+4/10/2023 14:57:39	e04/dht	{"dev": "e04", "hum": " 47", "temp": " 70"}
+4/10/2023 14:58:20	e01/dht/upd	upd
+4/10/2023 14:58:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 14:58:23	emp/dht/upd	upd
+4/10/2023 14:58:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 14:58:26	e02/dht/upd	upd
+4/10/2023 14:58:26	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 14:58:29	e04/dht/upd	upd
+4/10/2023 14:58:29	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 15:02:30	e01/dht/upd	upd
+4/10/2023 15:02:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:02:33	emp/dht/upd	upd
+4/10/2023 15:02:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:02:36	e02/dht/upd	upd
+4/10/2023 15:02:36	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 15:02:39	e04/dht/upd	upd
+4/10/2023 15:02:39	e04/dht	{"dev": "e04", "hum": " 48", "temp": " 70"}
+4/10/2023 15:03:20	e01/dht/upd	upd
+4/10/2023 15:03:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:03:23	emp/dht/upd	upd
+4/10/2023 15:03:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:03:26	e02/dht/upd	upd
+4/10/2023 15:03:26	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 15:03:29	e04/dht/upd	upd
+4/10/2023 15:03:29	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/10/2023 15:07:30	e01/dht/upd	upd
+4/10/2023 15:07:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:07:33	emp/dht/upd	upd
+4/10/2023 15:07:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:07:36	e02/dht/upd	upd
+4/10/2023 15:07:36	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 15:07:39	e04/dht/upd	upd
+4/10/2023 15:07:39	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/10/2023 15:08:20	e01/dht/upd	upd
+4/10/2023 15:08:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:08:23	emp/dht/upd	upd
+4/10/2023 15:08:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:08:26	e02/dht/upd	upd
+4/10/2023 15:08:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 15:08:29	e04/dht/upd	upd
+4/10/2023 15:08:29	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/10/2023 15:12:30	e01/dht/upd	upd
+4/10/2023 15:12:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:12:33	emp/dht/upd	upd
+4/10/2023 15:12:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:12:36	e02/dht/upd	upd
+4/10/2023 15:12:36	e02/dht	{"dev": "e02", "hum": " 52", "temp": " 72"}
+4/10/2023 15:12:39	e04/dht/upd	upd
+4/10/2023 15:12:39	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/10/2023 15:13:20	e01/dht/upd	upd
+4/10/2023 15:13:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:13:23	emp/dht/upd	upd
+4/10/2023 15:13:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:13:26	e02/dht/upd	upd
+4/10/2023 15:13:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 15:13:29	e04/dht/upd	upd
+4/10/2023 15:13:29	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/10/2023 15:17:30	e01/dht/upd	upd
+4/10/2023 15:17:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:17:33	emp/dht/upd	upd
+4/10/2023 15:17:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:17:36	e02/dht/upd	upd
+4/10/2023 15:17:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 15:17:39	e04/dht/upd	upd
+4/10/2023 15:17:39	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/10/2023 15:18:20	e01/dht/upd	upd
+4/10/2023 15:18:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:18:23	emp/dht/upd	upd
+4/10/2023 15:18:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:18:26	e02/dht/upd	upd
+4/10/2023 15:18:26	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 15:18:29	e04/dht/upd	upd
+4/10/2023 15:18:29	e04/dht	{"dev": "e04", "hum": " 49", "temp": " 70"}
+4/10/2023 15:22:30	e01/dht/upd	upd
+4/10/2023 15:22:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:22:33	emp/dht/upd	upd
+4/10/2023 15:22:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:22:36	e02/dht/upd	upd
+4/10/2023 15:22:36	e02/dht	{"dev": "e02", "hum": " 53", "temp": " 72"}
+4/10/2023 15:22:39	e04/dht/upd	upd
+4/10/2023 15:22:39	e04/dht	{"dev": "e04", "hum": " 50", "temp": " 70"}
+4/10/2023 15:23:20	e01/dht/upd	upd
+4/10/2023 15:23:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:23:23	emp/dht/upd	upd
+4/10/2023 15:23:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:23:26	e02/dht/upd	upd
+4/10/2023 15:23:26	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 73"}
+4/10/2023 15:23:29	e04/dht/upd	upd
+4/10/2023 15:23:29	e04/dht	{"dev": "e04", "hum": " 51", "temp": " 70"}
+4/10/2023 15:27:30	e01/dht/upd	upd
+4/10/2023 15:27:30	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:27:33	emp/dht/upd	upd
+4/10/2023 15:27:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:27:36	e02/dht/upd	upd
+4/10/2023 15:27:36	e02/dht	{"dev": "e02", "hum": " 54", "temp": " 72"}
+4/10/2023 15:27:39	e04/dht/upd	upd
+4/10/2023 15:27:39	e04/dht	{"dev": "e04", "hum": " 51", "temp": " 70"}
+4/10/2023 15:28:20	e01/dht/upd	upd
+4/10/2023 15:28:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 68"}
+4/10/2023 15:28:23	emp/dht/upd	upd
+4/10/2023 15:28:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:28:26	e02/dht/upd	upd
+4/10/2023 15:28:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 72"}
+4/10/2023 15:28:29	e04/dht/upd	upd
+4/10/2023 15:28:29	e04/dht	{"dev": "e04", "hum": " 51", "temp": " 70"}
+4/10/2023 15:32:30	e01/dht/upd	upd
+4/10/2023 15:32:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 68"}
+4/10/2023 15:32:33	emp/dht/upd	upd
+4/10/2023 15:32:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:32:36	e02/dht/upd	upd
+4/10/2023 15:32:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 73"}
+4/10/2023 15:32:39	e04/dht/upd	upd
+4/10/2023 15:32:39	e04/dht	{"dev": "e04", "hum": " 51", "temp": " 70"}
+4/10/2023 15:33:20	e01/dht/upd	upd
+4/10/2023 15:33:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 68"}
+4/10/2023 15:33:23	emp/dht/upd	upd
+4/10/2023 15:33:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:33:26	e02/dht/upd	upd
+4/10/2023 15:33:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 73"}
+4/10/2023 15:33:29	e04/dht/upd	upd
+4/10/2023 15:33:29	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 70"}
+4/10/2023 15:37:30	e01/dht/upd	upd
+4/10/2023 15:37:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 68"}
+4/10/2023 15:37:33	emp/dht/upd	upd
+4/10/2023 15:37:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:37:36	e02/dht/upd	upd
+4/10/2023 15:37:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 73"}
+4/10/2023 15:37:39	e04/dht/upd	upd
+4/10/2023 15:37:39	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 70"}
+4/10/2023 15:38:20	e01/dht/upd	upd
+4/10/2023 15:38:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 68"}
+4/10/2023 15:38:23	emp/dht/upd	upd
+4/10/2023 15:38:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:38:26	e02/dht/upd	upd
+4/10/2023 15:38:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 72"}
+4/10/2023 15:38:29	e04/dht/upd	upd
+4/10/2023 15:38:29	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 70"}
+4/10/2023 15:42:30	e01/dht/upd	upd
+4/10/2023 15:42:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 68"}
+4/10/2023 15:42:33	emp/dht/upd	upd
+4/10/2023 15:42:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:42:36	e02/dht/upd	upd
+4/10/2023 15:42:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 72"}
+4/10/2023 15:42:39	e04/dht/upd	upd
+4/10/2023 15:42:39	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 70"}
+4/10/2023 15:43:20	e01/dht/upd	upd
+4/10/2023 15:43:20	e01/dht	{"dev": "e01", "hum": " 58", "temp": " 69"}
+4/10/2023 15:43:23	emp/dht/upd	upd
+4/10/2023 15:43:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:43:26	e02/dht/upd	upd
+4/10/2023 15:43:26	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 73"}
+4/10/2023 15:43:29	e04/dht/upd	upd
+4/10/2023 15:43:29	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 70"}
+4/10/2023 15:47:30	e01/dht/upd	upd
+4/10/2023 15:47:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 69"}
+4/10/2023 15:47:33	emp/dht/upd	upd
+4/10/2023 15:47:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:47:36	e02/dht/upd	upd
+4/10/2023 15:47:36	e02/dht	{"dev": "e02", "hum": " 55", "temp": " 73"}
+4/10/2023 15:47:39	e04/dht/upd	upd
+4/10/2023 15:47:39	e04/dht	{"dev": "e04", "hum": " 52", "temp": " 70"}
+4/10/2023 15:48:20	e01/dht/upd	upd
+4/10/2023 15:48:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 69"}
+4/10/2023 15:48:23	emp/dht/upd	upd
+4/10/2023 15:48:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:48:26	e02/dht/upd	upd
+4/10/2023 15:48:26	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 72"}
+4/10/2023 15:48:29	e04/dht/upd	upd
+4/10/2023 15:48:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 68"}
+4/10/2023 15:52:30	e01/dht/upd	upd
+4/10/2023 15:52:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 69"}
+4/10/2023 15:52:33	emp/dht/upd	upd
+4/10/2023 15:52:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:52:36	e02/dht/upd	upd
+4/10/2023 15:52:36	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 72"}
+4/10/2023 15:52:39	e04/dht/upd	upd
+4/10/2023 15:52:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 68"}
+4/10/2023 15:53:20	e01/dht/upd	upd
+4/10/2023 15:53:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 69"}
+4/10/2023 15:53:23	emp/dht/upd	upd
+4/10/2023 15:53:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:53:26	e02/dht/upd	upd
+4/10/2023 15:53:26	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 15:53:29	e04/dht/upd	upd
+4/10/2023 15:53:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 68"}
+4/10/2023 15:57:30	e01/dht/upd	upd
+4/10/2023 15:57:30	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 69"}
+4/10/2023 15:57:33	emp/dht/upd	upd
+4/10/2023 15:57:33	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:57:36	e02/dht/upd	upd
+4/10/2023 15:57:36	e02/dht	{"dev": "e02", "hum": " 56", "temp": " 72"}
+4/10/2023 15:57:39	e04/dht/upd	upd
+4/10/2023 15:57:39	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 68"}
+4/10/2023 15:58:20	e01/dht/upd	upd
+4/10/2023 15:58:20	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 69"}
+4/10/2023 15:58:23	emp/dht/upd	upd
+4/10/2023 15:58:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 15:58:26	e02/dht/upd	upd
+4/10/2023 15:58:26	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 15:58:29	e04/dht/upd	upd
+4/10/2023 15:58:29	e04/dht	{"dev": "e04", "hum": " 55", "temp": " 68"}
+4/10/2023 16:02:28	e01/dht/upd	upd
+4/10/2023 16:02:28	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 69"}
+4/10/2023 16:02:31	emp/dht/upd	upd
+4/10/2023 16:02:31	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:02:34	e02/dht/upd	upd
+4/10/2023 16:02:34	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 16:02:37	e04/dht/upd	upd
+4/10/2023 16:02:37	e04/dht	{"dev": "e04", "hum": " 55", "temp": " 68"}
+4/10/2023 16:03:18	e01/dht/upd	upd
+4/10/2023 16:03:18	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 69"}
+4/10/2023 16:03:21	emp/dht/upd	upd
+4/10/2023 16:03:21	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:03:24	e02/dht/upd	upd
+4/10/2023 16:03:24	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 16:03:27	e04/dht/upd	upd
+4/10/2023 16:03:27	e04/dht	{"dev": "e04", "hum": " 55", "temp": " 68"}
+4/10/2023 16:07:28	e01/dht/upd	upd
+4/10/2023 16:07:28	e01/dht	{"dev": "e01", "hum": " 59", "temp": " 69"}
+4/10/2023 16:07:31	emp/dht/upd	upd
+4/10/2023 16:07:31	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:07:34	e02/dht/upd	upd
+4/10/2023 16:07:34	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 16:07:37	e04/dht/upd	upd
+4/10/2023 16:07:37	e04/dht	{"dev": "e04", "hum": " 55", "temp": " 68"}
+4/10/2023 16:08:20	e01/dht/upd	upd
+4/10/2023 16:08:20	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 69"}
+4/10/2023 16:08:23	emp/dht/upd	upd
+4/10/2023 16:08:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:08:26	e02/dht/upd	upd
+4/10/2023 16:08:26	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 16:08:29	e04/dht/upd	upd
+4/10/2023 16:08:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 70"}
+4/10/2023 16:12:28	e01/dht/upd	upd
+4/10/2023 16:12:28	e01/dht	{"dev": "e01", "hum": " 60", "temp": " 69"}
+4/10/2023 16:12:31	emp/dht/upd	upd
+4/10/2023 16:12:31	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:12:34	e02/dht/upd	upd
+4/10/2023 16:12:34	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 16:12:37	e04/dht/upd	upd
+4/10/2023 16:12:37	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 70"}
+4/10/2023 16:13:20	e01/dht/upd	upd
+4/10/2023 16:13:20	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 69"}
+4/10/2023 16:13:23	emp/dht/upd	upd
+4/10/2023 16:13:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:13:26	e02/dht/upd	upd
+4/10/2023 16:13:26	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 16:13:29	e04/dht/upd	upd
+4/10/2023 16:13:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 70"}
+4/10/2023 16:17:28	e01/dht/upd	upd
+4/10/2023 16:17:28	e01/dht	{"dev": "e01", "hum": " 64", "temp": " 69"}
+4/10/2023 16:17:31	emp/dht/upd	upd
+4/10/2023 16:17:31	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:17:34	e02/dht/upd	upd
+4/10/2023 16:17:34	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 16:17:37	e04/dht/upd	upd
+4/10/2023 16:17:37	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 70"}
+4/10/2023 16:18:20	e01/dht/upd	upd
+4/10/2023 16:18:20	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 69"}
+4/10/2023 16:18:23	emp/dht/upd	upd
+4/10/2023 16:18:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:18:26	e02/dht/upd	upd
+4/10/2023 16:18:26	e02/dht	{"dev": "e02", "hum": " 58", "temp": " 72"}
+4/10/2023 16:18:29	e04/dht/upd	upd
+4/10/2023 16:18:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 70"}
+4/10/2023 16:22:28	e01/dht/upd	upd
+4/10/2023 16:22:28	e01/dht	{"dev": "e01", "hum": " 63", "temp": " 69"}
+4/10/2023 16:22:31	emp/dht/upd	upd
+4/10/2023 16:22:31	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:22:34	e02/dht/upd	upd
+4/10/2023 16:22:34	e02/dht	{"dev": "e02", "hum": " 58", "temp": " 73"}
+4/10/2023 16:22:37	e04/dht/upd	upd
+4/10/2023 16:22:37	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 70"}
+4/10/2023 16:23:20	e01/dht/upd	upd
+4/10/2023 16:23:20	e01/dht	{"dev": "e01", "hum": " 65", "temp": " 69"}
+4/10/2023 16:23:23	emp/dht/upd	upd
+4/10/2023 16:23:23	emp/dht	{"dev": "emp", "hum": " 42", "temp": " 70"}
+4/10/2023 16:23:26	e02/dht/upd	upd
+4/10/2023 16:23:26	e02/dht	{"dev": "e02", "hum": " 57", "temp": " 72"}
+4/10/2023 16:23:29	e04/dht/upd	upd
+4/10/2023 16:23:29	e04/dht	{"dev": "e04", "hum": " 54", "temp": " 70"}
+4/11/2023 9:13:47	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9
+4/11/2023 9:13:47	cam02/log	Uploading picture... 
+4/11/2023 9:13:47	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5
+4/11/2023 9:13:47	cam01/log	Uploading picture... 
+4/11/2023 9:15:20	cam01/click	click
+4/11/2023 9:15:20	cam01/log	Taking a photo...
+4/11/2023 9:15:24	cam01/log	Taking a photo...
+4/11/2023 9:15:28	cam01/log	Taking a photo...
+4/11/2023 9:15:31	cam01/log	Uploading picture... 
+4/11/2023 9:15:34	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=030bbceb-aad2-4c08-a62d-6b0b74118c0f
+4/11/2023 9:16:08	win01/ds/get	{"resp_topic":"tst01/get","init_pos":-1, "max_cnt":10, "direction":"fwd"}
+4/11/2023 9:16:08	tst01/get	{"prev_idx": -1, "data": ["4/9/2023 9:12:15\tcam02\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9", "4/9/2023 9:12:15\tcam02/log\tUploading picture...", "4/9/2023 9:12:15\tcam01\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5", "4/9/2023 9:12:15\tcam01/log\tUploading picture...", "4/9/2023 9:12:28\te01/dht/upd\tupd", "4/9/2023 9:12:28\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 69\", \"temp\": \" 61\"}", "4/9/2023 9:12:31\temp/dht/upd\tupd", "4/9/2023 9:12:31\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 44\", \"temp\": \" 70\"}", "4/9/2023 9:12:34\te02/dht/upd\tupd"], "next_idx": 9}
+4/11/2023 9:17:28	e01/dht/upd	upd
+4/11/2023 9:17:28	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 64"}
+4/11/2023 9:17:31	emp/dht/upd	upd
+4/11/2023 9:17:32	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:17:34	e02/dht/upd	upd
+4/11/2023 9:17:34	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:17:37	e04/dht/upd	upd
+4/11/2023 9:17:38	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:18:19	win01/ds/get	{"resp_topic":"tst01/get","init_pos":-1, "max_cnt":10, "direction":"fwd"}
+4/11/2023 9:18:19	tst01/get	{"prev_idx": -1, "data": ["4/9/2023 9:12:15\tcam02\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9", "4/9/2023 9:12:15\tcam02/log\tUploading picture...", "4/9/2023 9:12:15\tcam01\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5", "4/9/2023 9:12:15\tcam01/log\tUploading picture...", "4/9/2023 9:12:28\te01/dht/upd\tupd", "4/9/2023 9:12:28\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 69\", \"temp\": \" 61\"}", "4/9/2023 9:12:31\temp/dht/upd\tupd", "4/9/2023 9:12:31\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 44\", \"temp\": \" 70\"}", "4/9/2023 9:12:34\te02/dht/upd\tupd"], "next_idx": 9}
+4/11/2023 9:18:47	e01/dht/upd	upd
+4/11/2023 9:18:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:18:50	emp/dht/upd	upd
+4/11/2023 9:18:50	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:18:53	e02/dht/upd	upd
+4/11/2023 9:18:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:18:56	e04/dht/upd	upd
+4/11/2023 9:18:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:20:03	win01/ds/get	{"resp_topic":"tst01/get","init_pos":9, "max_cnt":10, "direction":"fwd"}
+4/11/2023 9:20:03	tst01/get	{"prev_idx": 8, "data": ["4/9/2023 9:12:35\te02/dht\t{\"dev\": \"e02\", \"hum\": \" 62\", \"temp\": \" 64\"}", "4/9/2023 9:12:37\te04/dht/upd\tupd", "4/9/2023 9:12:37\te04/dht\t{\"dev\": \"e04\", \"hum\": \" 57\", \"temp\": \" 63\"}", "4/9/2023 9:14:44\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 44\", \"temp\": \" 70\"}", "4/9/2023 9:14:46\te01/dht/upd\t106", "4/9/2023 9:14:46\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 67\", \"temp\": \" 62\"}", "4/9/2023 9:14:47\te02/dht/upd\t150", "4/9/2023 9:14:48\te02/dht\t{\"dev\": \"e02\", \"hum\": \" 60\", \"temp\": \" 66\"}", "4/9/2023 9:17:15\te01/dht/upd\tupd", "4/9/2023 9:17:15\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 66\", \"temp\": \" 63\"}"], "next_idx": 19}
+4/11/2023 9:22:28	e01/dht/upd	upd
+4/11/2023 9:22:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:22:31	emp/dht/upd	upd
+4/11/2023 9:22:32	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:22:34	e02/dht/upd	upd
+4/11/2023 9:22:35	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:22:37	e04/dht/upd	upd
+4/11/2023 9:22:37	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:23:47	e01/dht/upd	upd
+4/11/2023 9:23:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:23:50	emp/dht/upd	upd
+4/11/2023 9:23:50	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:23:53	e02/dht/upd	upd
+4/11/2023 9:23:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:23:56	e04/dht/upd	upd
+4/11/2023 9:23:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:27:28	e01/dht/upd	upd
+4/11/2023 9:27:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:27:31	emp/dht/upd	upd
+4/11/2023 9:27:32	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:27:34	e02/dht/upd	upd
+4/11/2023 9:27:34	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:27:37	e04/dht/upd	upd
+4/11/2023 9:27:37	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:28:41	win01/ds/get	{"resp_topic":"tst01/get","init_pos":19, "max_cnt":10, "direction":"fwd"}
+4/11/2023 9:28:41	tst01/get	{"prev_idx": 18, "data": ["4/9/2023 9:17:18\temp/dht/upd\tupd", "4/9/2023 9:17:19\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 43\", \"temp\": \" 70\"}", "4/9/2023 9:17:21\te02/dht/upd\tupd", "4/9/2023 9:17:21\te02/dht\t{\"dev\": \"e02\", \"hum\": \" 59\", \"temp\": \" 66\"}", "4/9/2023 9:17:24\te04/dht/upd\tupd", "4/9/2023 9:17:24\te04/dht\t{\"dev\": \"e04\", \"hum\": \" 54\", \"temp\": \" 66\"}", "4/9/2023 9:17:28\te01/dht/upd\tupd", "4/9/2023 9:17:28\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 65\", \"temp\": \" 63\"}", "4/9/2023 9:17:31\temp/dht/upd\tupd", "4/9/2023 9:17:31\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 43\", \"temp\": \" 70\"}"], "next_idx": 29}
+4/11/2023 9:28:47	e01/dht/upd	upd
+4/11/2023 9:28:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:28:50	emp/dht/upd	upd
+4/11/2023 9:28:50	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:28:53	e02/dht/upd	upd
+4/11/2023 9:28:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:28:56	e04/dht/upd	upd
+4/11/2023 9:28:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:30:58	win01/ds/get	{"resp_topic":"tst01/get","init_pos":18, "max_cnt":10, "direction":"back"}
+4/11/2023 9:30:58	tst01/get	{"prev_idx": 8, "data": ["4/9/2023 9:12:35\te02/dht\t{\"dev\": \"e02\", \"hum\": \" 62\", \"temp\": \" 64\"}", "4/9/2023 9:12:37\te04/dht/upd\tupd", "4/9/2023 9:12:37\te04/dht\t{\"dev\": \"e04\", \"hum\": \" 57\", \"temp\": \" 63\"}", "4/9/2023 9:14:44\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 44\", \"temp\": \" 70\"}", "4/9/2023 9:14:46\te01/dht/upd\t106", "4/9/2023 9:14:46\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 67\", \"temp\": \" 62\"}", "4/9/2023 9:14:47\te02/dht/upd\t150", "4/9/2023 9:14:48\te02/dht\t{\"dev\": \"e02\", \"hum\": \" 60\", \"temp\": \" 66\"}", "4/9/2023 9:17:15\te01/dht/upd\tupd", "4/9/2023 9:17:15\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 66\", \"temp\": \" 63\"}"], "next_idx": 19}
+4/11/2023 9:32:28	e01/dht/upd	upd
+4/11/2023 9:32:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:32:31	emp/dht/upd	upd
+4/11/2023 9:32:31	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:32:34	e02/dht/upd	upd
+4/11/2023 9:32:35	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:32:37	e04/dht/upd	upd
+4/11/2023 9:32:37	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:33:47	e01/dht/upd	upd
+4/11/2023 9:33:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:33:50	emp/dht/upd	upd
+4/11/2023 9:33:50	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:33:53	e02/dht/upd	upd
+4/11/2023 9:33:53	e02/dht	{"dev": "e02", "hum": " 65", "temp": " 66"}
+4/11/2023 9:33:56	e04/dht/upd	upd
+4/11/2023 9:33:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:37:28	e01/dht/upd	upd
+4/11/2023 9:37:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:37:31	emp/dht/upd	upd
+4/11/2023 9:37:31	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:37:34	e02/dht/upd	upd
+4/11/2023 9:37:34	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:37:37	e04/dht/upd	upd
+4/11/2023 9:37:37	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:38:47	e01/dht/upd	upd
+4/11/2023 9:38:47	e01/dht	{"dev": "e01", "hum": " 67", "temp": " 64"}
+4/11/2023 9:38:50	emp/dht/upd	upd
+4/11/2023 9:38:50	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:38:53	e02/dht/upd	upd
+4/11/2023 9:38:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:38:56	e04/dht/upd	upd
+4/11/2023 9:38:56	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 9:42:28	e01/dht/upd	upd
+4/11/2023 9:42:28	e01/dht	{"dev": "e01", "hum": " 67", "temp": " 64"}
+4/11/2023 9:42:31	emp/dht/upd	upd
+4/11/2023 9:42:31	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:42:34	e02/dht/upd	upd
+4/11/2023 9:42:34	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:42:37	e04/dht/upd	upd
+4/11/2023 9:42:38	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 9:43:47	e01/dht/upd	upd
+4/11/2023 9:43:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:43:50	emp/dht/upd	upd
+4/11/2023 9:43:50	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:43:53	e02/dht/upd	upd
+4/11/2023 9:43:53	e02/dht	{"dev": "e02", "hum": " 65", "temp": " 66"}
+4/11/2023 9:43:56	e04/dht/upd	upd
+4/11/2023 9:43:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:47:28	e01/dht/upd	upd
+4/11/2023 9:47:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:47:31	emp/dht/upd	upd
+4/11/2023 9:47:31	emp/dht	{"dev": "emp", "hum": " 49", "temp": " 68"}
+4/11/2023 9:47:34	e02/dht/upd	upd
+4/11/2023 9:47:34	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:47:37	e04/dht/upd	upd
+4/11/2023 9:47:37	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:48:47	e01/dht/upd	upd
+4/11/2023 9:48:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:48:50	emp/dht/upd	upd
+4/11/2023 9:48:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 9:48:53	e02/dht/upd	upd
+4/11/2023 9:48:53	e02/dht	{"dev": "e02", "hum": " 65", "temp": " 66"}
+4/11/2023 9:48:56	e04/dht/upd	upd
+4/11/2023 9:48:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 9:52:28	e01/dht/upd	upd
+4/11/2023 9:52:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:52:31	emp/dht/upd	upd
+4/11/2023 9:52:31	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 9:52:34	e02/dht/upd	upd
+4/11/2023 9:52:34	e02/dht	{"dev": "e02", "hum": " 65", "temp": " 66"}
+4/11/2023 9:52:37	e04/dht/upd	upd
+4/11/2023 9:52:37	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 9:53:47	e01/dht/upd	upd
+4/11/2023 9:53:47	e01/dht	{"dev": "e01", "hum": " 67", "temp": " 64"}
+4/11/2023 9:53:50	emp/dht/upd	upd
+4/11/2023 9:53:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 9:53:53	e02/dht/upd	upd
+4/11/2023 9:53:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:53:56	e04/dht/upd	upd
+4/11/2023 9:53:56	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 9:57:28	e01/dht/upd	upd
+4/11/2023 9:57:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:57:31	emp/dht/upd	upd
+4/11/2023 9:57:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 9:57:34	e02/dht/upd	upd
+4/11/2023 9:57:34	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:57:37	e04/dht/upd	upd
+4/11/2023 9:57:37	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 9:58:47	e01/dht/upd	upd
+4/11/2023 9:58:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 9:58:50	emp/dht/upd	upd
+4/11/2023 9:58:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 9:58:53	e02/dht/upd	upd
+4/11/2023 9:58:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 9:58:56	e04/dht/upd	upd
+4/11/2023 9:58:56	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:02:28	e01/dht/upd	upd
+4/11/2023 10:02:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:02:31	emp/dht/upd	upd
+4/11/2023 10:02:31	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 10:02:34	e02/dht/upd	upd
+4/11/2023 10:02:34	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 66"}
+4/11/2023 10:02:37	e04/dht/upd	upd
+4/11/2023 10:02:37	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:03:47	e01/dht/upd	upd
+4/11/2023 10:03:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:03:50	emp/dht/upd	upd
+4/11/2023 10:03:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 10:03:53	e02/dht/upd	upd
+4/11/2023 10:03:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 66"}
+4/11/2023 10:03:56	e04/dht/upd	upd
+4/11/2023 10:03:56	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:07:28	e01/dht/upd	upd
+4/11/2023 10:07:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:07:31	emp/dht/upd	upd
+4/11/2023 10:07:31	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 10:07:34	e02/dht/upd	upd
+4/11/2023 10:07:34	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 66"}
+4/11/2023 10:07:37	e04/dht/upd	upd
+4/11/2023 10:07:37	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:08:47	e01/dht/upd	upd
+4/11/2023 10:08:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:08:50	emp/dht/upd	upd
+4/11/2023 10:08:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 10:08:53	e02/dht/upd	upd
+4/11/2023 10:08:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 66"}
+4/11/2023 10:08:56	e04/dht/upd	upd
+4/11/2023 10:08:56	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:12:28	e01/dht/upd	upd
+4/11/2023 10:12:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:12:31	emp/dht/upd	upd
+4/11/2023 10:12:31	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 10:12:34	e02/dht/upd	upd
+4/11/2023 10:12:34	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 67"}
+4/11/2023 10:12:37	e04/dht/upd	upd
+4/11/2023 10:12:37	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:13:47	e01/dht/upd	upd
+4/11/2023 10:13:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:13:50	emp/dht/upd	upd
+4/11/2023 10:13:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 10:13:53	e02/dht/upd	upd
+4/11/2023 10:13:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 67"}
+4/11/2023 10:13:56	e04/dht/upd	upd
+4/11/2023 10:13:56	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:17:28	e01/dht/upd	upd
+4/11/2023 10:17:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:17:31	emp/dht/upd	upd
+4/11/2023 10:17:31	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 70"}
+4/11/2023 10:17:34	e02/dht/upd	upd
+4/11/2023 10:17:35	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 66"}
+4/11/2023 10:17:37	e04/dht/upd	upd
+4/11/2023 10:17:37	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:18:47	e01/dht/upd	upd
+4/11/2023 10:18:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:18:50	emp/dht/upd	upd
+4/11/2023 10:18:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 70"}
+4/11/2023 10:18:53	e02/dht/upd	upd
+4/11/2023 10:18:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 66"}
+4/11/2023 10:18:56	e04/dht/upd	upd
+4/11/2023 10:18:56	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:22:28	e01/dht/upd	upd
+4/11/2023 10:22:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:22:31	emp/dht/upd	upd
+4/11/2023 10:22:31	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 70"}
+4/11/2023 10:22:34	e02/dht/upd	upd
+4/11/2023 10:22:34	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 66"}
+4/11/2023 10:22:37	e04/dht/upd	upd
+4/11/2023 10:22:38	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 10:23:47	e01/dht/upd	upd
+4/11/2023 10:23:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:23:50	emp/dht/upd	upd
+4/11/2023 10:23:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:23:53	e02/dht/upd	upd
+4/11/2023 10:23:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 66"}
+4/11/2023 10:23:56	e04/dht/upd	upd
+4/11/2023 10:23:56	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:27:28	e01/dht/upd	upd
+4/11/2023 10:27:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:27:31	emp/dht/upd	upd
+4/11/2023 10:27:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:27:34	e02/dht/upd	upd
+4/11/2023 10:27:34	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 67"}
+4/11/2023 10:27:37	e04/dht/upd	upd
+4/11/2023 10:27:37	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 10:28:47	e01/dht/upd	upd
+4/11/2023 10:28:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:28:50	emp/dht/upd	upd
+4/11/2023 10:28:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:28:53	e02/dht/upd	upd
+4/11/2023 10:28:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 67"}
+4/11/2023 10:28:56	e04/dht/upd	upd
+4/11/2023 10:28:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 10:32:28	e01/dht/upd	upd
+4/11/2023 10:32:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:32:31	emp/dht/upd	upd
+4/11/2023 10:32:31	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:32:34	e02/dht/upd	upd
+4/11/2023 10:32:35	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 67"}
+4/11/2023 10:32:37	e04/dht/upd	upd
+4/11/2023 10:32:37	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 10:33:47	e01/dht/upd	upd
+4/11/2023 10:33:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:33:50	emp/dht/upd	upd
+4/11/2023 10:33:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:33:53	e02/dht/upd	upd
+4/11/2023 10:33:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:33:56	e04/dht/upd	upd
+4/11/2023 10:33:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 10:37:28	e01/dht/upd	upd
+4/11/2023 10:37:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:37:31	emp/dht/upd	upd
+4/11/2023 10:37:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:37:34	e02/dht/upd	upd
+4/11/2023 10:37:35	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:37:37	e04/dht/upd	upd
+4/11/2023 10:37:38	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 10:38:47	e01/dht/upd	upd
+4/11/2023 10:38:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:38:50	emp/dht/upd	upd
+4/11/2023 10:38:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:38:53	e02/dht/upd	upd
+4/11/2023 10:38:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 67"}
+4/11/2023 10:38:56	e04/dht/upd	upd
+4/11/2023 10:38:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 10:42:28	e01/dht/upd	upd
+4/11/2023 10:42:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:42:31	emp/dht/upd	upd
+4/11/2023 10:42:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:42:34	e02/dht/upd	upd
+4/11/2023 10:42:35	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:42:37	e04/dht/upd	upd
+4/11/2023 10:42:37	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 10:43:47	e01/dht/upd	upd
+4/11/2023 10:43:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:43:50	emp/dht/upd	upd
+4/11/2023 10:43:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:43:53	e02/dht/upd	upd
+4/11/2023 10:43:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:43:56	e04/dht/upd	upd
+4/11/2023 10:43:56	e04/dht	{"dev": "e04", "hum": " 61", "temp": " 63"}
+4/11/2023 10:47:28	e01/dht/upd	upd
+4/11/2023 10:47:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:47:31	emp/dht/upd	upd
+4/11/2023 10:47:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:47:34	e02/dht/upd	upd
+4/11/2023 10:47:34	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:47:37	e04/dht/upd	upd
+4/11/2023 10:47:37	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:48:47	e01/dht/upd	upd
+4/11/2023 10:48:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:48:50	emp/dht/upd	upd
+4/11/2023 10:48:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:48:53	e02/dht/upd	upd
+4/11/2023 10:48:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:48:56	e04/dht/upd	upd
+4/11/2023 10:48:56	e04/dht	{"dev": "e04", "hum": " 62", "temp": " 63"}
+4/11/2023 10:52:28	e01/dht/upd	upd
+4/11/2023 10:52:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:52:31	emp/dht/upd	upd
+4/11/2023 10:52:31	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:52:34	e02/dht/upd	upd
+4/11/2023 10:52:35	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:52:37	e04/dht/upd	upd
+4/11/2023 10:52:37	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 10:53:47	e01/dht/upd	upd
+4/11/2023 10:53:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:53:50	emp/dht/upd	upd
+4/11/2023 10:53:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:53:53	e02/dht/upd	upd
+4/11/2023 10:53:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:53:56	e04/dht/upd	upd
+4/11/2023 10:53:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 10:57:28	e01/dht/upd	upd
+4/11/2023 10:57:29	e01/dht	{"dev": "e01", "hum": " 67", "temp": " 64"}
+4/11/2023 10:57:31	emp/dht/upd	upd
+4/11/2023 10:57:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:57:34	e02/dht/upd	upd
+4/11/2023 10:57:35	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:57:37	e04/dht/upd	upd
+4/11/2023 10:57:37	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 10:58:47	e01/dht/upd	upd
+4/11/2023 10:58:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 10:58:50	emp/dht/upd	upd
+4/11/2023 10:58:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 10:58:53	e02/dht/upd	upd
+4/11/2023 10:58:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 10:58:56	e04/dht/upd	upd
+4/11/2023 10:58:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:02:28	e01/dht/upd	upd
+4/11/2023 11:02:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:02:31	emp/dht/upd	upd
+4/11/2023 11:02:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 11:02:34	e02/dht/upd	upd
+4/11/2023 11:02:34	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 11:02:37	e04/dht/upd	upd
+4/11/2023 11:02:38	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:03:47	e01/dht/upd	upd
+4/11/2023 11:03:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:03:50	emp/dht/upd	upd
+4/11/2023 11:03:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 11:03:53	e02/dht/upd	upd
+4/11/2023 11:03:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 67"}
+4/11/2023 11:03:56	e04/dht/upd	upd
+4/11/2023 11:03:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:07:28	e01/dht/upd	upd
+4/11/2023 11:07:28	e01/dht	{"dev": "e01", "hum": " 67", "temp": " 64"}
+4/11/2023 11:07:31	emp/dht/upd	upd
+4/11/2023 11:07:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 11:07:34	e02/dht/upd	upd
+4/11/2023 11:07:35	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 67"}
+4/11/2023 11:07:37	e04/dht/upd	upd
+4/11/2023 11:07:37	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:08:47	e01/dht/upd	upd
+4/11/2023 11:08:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:08:50	emp/dht/upd	upd
+4/11/2023 11:08:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 11:08:53	e02/dht/upd	upd
+4/11/2023 11:08:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:08:56	e04/dht/upd	upd
+4/11/2023 11:08:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:11:18	e01/dht/upd	22
+4/11/2023 11:11:18	e01/dht	{"dev": "e01", "hum": " 67", "temp": " 64"}
+4/11/2023 11:12:28	e01/dht/upd	upd
+4/11/2023 11:12:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:12:31	emp/dht/upd	upd
+4/11/2023 11:12:31	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 11:12:34	e02/dht/upd	upd
+4/11/2023 11:12:35	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:12:37	e04/dht/upd	upd
+4/11/2023 11:12:38	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:13:47	e01/dht/upd	upd
+4/11/2023 11:13:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:13:50	emp/dht/upd	upd
+4/11/2023 11:13:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:13:53	e02/dht/upd	upd
+4/11/2023 11:13:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:13:56	e04/dht/upd	upd
+4/11/2023 11:13:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:17:28	e01/dht/upd	upd
+4/11/2023 11:17:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:17:31	emp/dht/upd	upd
+4/11/2023 11:17:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:17:34	e02/dht/upd	upd
+4/11/2023 11:17:35	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:17:37	e04/dht/upd	upd
+4/11/2023 11:17:38	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:18:47	e01/dht/upd	upd
+4/11/2023 11:18:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:18:50	emp/dht/upd	upd
+4/11/2023 11:18:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:18:53	e02/dht/upd	upd
+4/11/2023 11:18:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:18:56	e04/dht/upd	upd
+4/11/2023 11:18:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:22:28	e01/dht/upd	upd
+4/11/2023 11:22:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:22:31	emp/dht/upd	upd
+4/11/2023 11:22:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:22:34	e02/dht/upd	upd
+4/11/2023 11:22:35	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:22:37	e04/dht/upd	upd
+4/11/2023 11:22:37	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:23:47	e01/dht/upd	upd
+4/11/2023 11:23:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:23:50	emp/dht/upd	upd
+4/11/2023 11:23:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:23:53	e02/dht/upd	upd
+4/11/2023 11:23:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:23:56	e04/dht/upd	upd
+4/11/2023 11:23:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:27:28	e01/dht/upd	upd
+4/11/2023 11:27:29	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:27:31	emp/dht/upd	upd
+4/11/2023 11:27:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:27:34	e02/dht/upd	upd
+4/11/2023 11:27:34	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:27:37	e04/dht/upd	upd
+4/11/2023 11:27:38	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:28:47	e01/dht/upd	upd
+4/11/2023 11:28:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:28:50	emp/dht/upd	upd
+4/11/2023 11:28:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:28:53	e02/dht/upd	upd
+4/11/2023 11:28:53	e02/dht	{"dev": "e02", "hum": " 65", "temp": " 67"}
+4/11/2023 11:28:56	e04/dht/upd	upd
+4/11/2023 11:28:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:32:28	e01/dht/upd	upd
+4/11/2023 11:32:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:32:31	emp/dht/upd	upd
+4/11/2023 11:32:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:32:34	e02/dht/upd	upd
+4/11/2023 11:32:35	e02/dht	{"dev": "e02", "hum": " 65", "temp": " 67"}
+4/11/2023 11:32:37	e04/dht/upd	upd
+4/11/2023 11:32:37	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:33:47	e01/dht/upd	upd
+4/11/2023 11:33:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:33:50	emp/dht/upd	upd
+4/11/2023 11:33:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:33:53	e02/dht/upd	upd
+4/11/2023 11:33:53	e02/dht	{"dev": "e02", "hum": " 66", "temp": " 67"}
+4/11/2023 11:33:56	e04/dht/upd	upd
+4/11/2023 11:33:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:37:28	e01/dht/upd	upd
+4/11/2023 11:37:28	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 64"}
+4/11/2023 11:37:31	emp/dht/upd	upd
+4/11/2023 11:37:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:37:34	e02/dht/upd	upd
+4/11/2023 11:37:34	e02/dht	{"dev": "e02", "hum": " 65", "temp": " 67"}
+4/11/2023 11:37:37	e04/dht/upd	upd
+4/11/2023 11:37:37	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:38:47	e01/dht/upd	upd
+4/11/2023 11:38:47	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 11:38:50	emp/dht/upd	upd
+4/11/2023 11:38:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:38:53	e02/dht/upd	upd
+4/11/2023 11:38:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:38:56	e04/dht/upd	upd
+4/11/2023 11:38:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:42:28	e01/dht/upd	upd
+4/11/2023 11:42:29	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 11:42:31	emp/dht/upd	upd
+4/11/2023 11:42:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:42:34	e02/dht/upd	upd
+4/11/2023 11:42:35	e02/dht	{"dev": "e02", "hum": " 65", "temp": " 67"}
+4/11/2023 11:42:37	e04/dht/upd	upd
+4/11/2023 11:42:38	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 63"}
+4/11/2023 11:43:47	e01/dht/upd	upd
+4/11/2023 11:43:47	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 11:43:50	emp/dht/upd	upd
+4/11/2023 11:43:50	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 11:43:53	e02/dht/upd	upd
+4/11/2023 11:43:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:43:56	e04/dht/upd	upd
+4/11/2023 11:43:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 64"}
+4/11/2023 11:47:28	e01/dht/upd	upd
+4/11/2023 11:47:28	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 64"}
+4/11/2023 11:47:31	emp/dht/upd	upd
+4/11/2023 11:47:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 11:47:34	e02/dht/upd	upd
+4/11/2023 11:47:35	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 67"}
+4/11/2023 11:47:37	e04/dht/upd	upd
+4/11/2023 11:47:37	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 64"}
+4/11/2023 11:48:47	e01/dht/upd	upd
+4/11/2023 11:48:47	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 11:48:50	emp/dht/upd	upd
+4/11/2023 11:48:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:48:53	e02/dht/upd	upd
+4/11/2023 11:48:53	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 68"}
+4/11/2023 11:48:56	e04/dht/upd	upd
+4/11/2023 11:48:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 64"}
+4/11/2023 11:52:28	e01/dht/upd	upd
+4/11/2023 11:52:29	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 11:52:31	emp/dht/upd	upd
+4/11/2023 11:52:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:52:34	e02/dht/upd	upd
+4/11/2023 11:52:35	e02/dht	{"dev": "e02", "hum": " 64", "temp": " 68"}
+4/11/2023 11:52:37	e04/dht/upd	upd
+4/11/2023 11:52:38	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 64"}
+4/11/2023 11:53:47	e01/dht/upd	upd
+4/11/2023 11:53:47	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 11:53:50	emp/dht/upd	upd
+4/11/2023 11:53:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:53:53	e02/dht/upd	upd
+4/11/2023 11:53:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 68"}
+4/11/2023 11:53:56	e04/dht/upd	upd
+4/11/2023 11:53:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 64"}
+4/11/2023 11:57:28	e01/dht/upd	upd
+4/11/2023 11:57:29	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 11:57:31	emp/dht/upd	upd
+4/11/2023 11:57:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:57:34	e02/dht/upd	upd
+4/11/2023 11:57:34	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 68"}
+4/11/2023 11:57:37	e04/dht/upd	upd
+4/11/2023 11:57:38	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 64"}
+4/11/2023 11:57:53	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:58:47	e01/dht/upd	upd
+4/11/2023 11:58:47	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 11:58:50	emp/dht/upd	upd
+4/11/2023 11:58:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 11:58:53	e02/dht/upd	upd
+4/11/2023 11:58:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 68"}
+4/11/2023 11:58:56	e04/dht/upd	upd
+4/11/2023 11:58:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 64"}
+4/11/2023 12:02:28	e01/dht/upd	upd
+4/11/2023 12:02:29	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 12:02:31	emp/dht/upd	upd
+4/11/2023 12:02:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:02:34	e02/dht/upd	upd
+4/11/2023 12:02:35	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 68"}
+4/11/2023 12:02:37	e04/dht/upd	upd
+4/11/2023 12:02:38	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 64"}
+4/11/2023 12:03:47	e01/dht/upd	upd
+4/11/2023 12:03:47	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 12:03:50	emp/dht/upd	upd
+4/11/2023 12:03:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:03:53	e02/dht/upd	upd
+4/11/2023 12:03:53	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 68"}
+4/11/2023 12:03:56	e04/dht/upd	upd
+4/11/2023 12:03:56	e04/dht	{"dev": "e04", "hum": " 64", "temp": " 64"}
+4/11/2023 12:07:28	e01/dht/upd	upd
+4/11/2023 12:07:29	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 12:07:31	emp/dht/upd	upd
+4/11/2023 12:07:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:07:34	e02/dht/upd	upd
+4/11/2023 12:07:35	e02/dht	{"dev": "e02", "hum": " 63", "temp": " 68"}
+4/11/2023 12:07:37	e04/dht/upd	upd
+4/11/2023 12:07:38	e04/dht	{"dev": "e04", "hum": " 64", "temp": " 64"}
+4/11/2023 12:08:47	e01/dht/upd	upd
+4/11/2023 12:08:47	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 12:08:50	emp/dht/upd	upd
+4/11/2023 12:08:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:08:53	e02/dht/upd	upd
+4/11/2023 12:08:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 68"}
+4/11/2023 12:08:56	e04/dht/upd	upd
+4/11/2023 12:08:56	e04/dht	{"dev": "e04", "hum": " 64", "temp": " 64"}
+4/11/2023 12:12:28	e01/dht/upd	upd
+4/11/2023 12:12:28	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 12:12:31	emp/dht/upd	upd
+4/11/2023 12:12:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:12:34	e02/dht/upd	upd
+4/11/2023 12:12:35	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 68"}
+4/11/2023 12:12:37	e04/dht/upd	upd
+4/11/2023 12:12:38	e04/dht	{"dev": "e04", "hum": " 64", "temp": " 64"}
+4/11/2023 12:13:47	e01/dht/upd	upd
+4/11/2023 12:13:47	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 12:13:50	emp/dht/upd	upd
+4/11/2023 12:13:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:13:53	e02/dht/upd	upd
+4/11/2023 12:13:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 69"}
+4/11/2023 12:13:56	e04/dht/upd	upd
+4/11/2023 12:13:56	e04/dht	{"dev": "e04", "hum": " 64", "temp": " 64"}
+4/11/2023 12:17:28	e01/dht/upd	upd
+4/11/2023 12:17:29	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 12:17:31	emp/dht/upd	upd
+4/11/2023 12:17:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:17:34	e02/dht/upd	upd
+4/11/2023 12:17:35	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 69"}
+4/11/2023 12:17:37	e04/dht/upd	upd
+4/11/2023 12:17:38	e04/dht	{"dev": "e04", "hum": " 64", "temp": " 64"}
+4/11/2023 12:18:47	e01/dht/upd	upd
+4/11/2023 12:18:47	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 12:18:50	emp/dht/upd	upd
+4/11/2023 12:18:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:18:53	e02/dht/upd	upd
+4/11/2023 12:18:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 69"}
+4/11/2023 12:18:56	e04/dht/upd	upd
+4/11/2023 12:18:56	e04/dht	{"dev": "e04", "hum": " 64", "temp": " 64"}
+4/11/2023 12:22:28	e01/dht/upd	upd
+4/11/2023 12:22:29	e01/dht	{"dev": "e01", "hum": " 69", "temp": " 65"}
+4/11/2023 12:22:31	emp/dht/upd	upd
+4/11/2023 12:22:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:22:34	e02/dht/upd	upd
+4/11/2023 12:22:35	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 69"}
+4/11/2023 12:22:37	e04/dht/upd	upd
+4/11/2023 12:22:38	e04/dht	{"dev": "e04", "hum": " 64", "temp": " 64"}
+4/11/2023 12:23:47	e01/dht/upd	upd
+4/11/2023 12:23:47	e01/dht	{"dev": "e01", "hum": " 68", "temp": " 65"}
+4/11/2023 12:23:50	emp/dht/upd	upd
+4/11/2023 12:23:50	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 68"}
+4/11/2023 12:23:53	e02/dht/upd	upd
+4/11/2023 12:23:53	e02/dht	{"dev": "e02", "hum": " 62", "temp": " 69"}
+4/11/2023 12:23:56	e04/dht/upd	upd
+4/11/2023 12:23:56	e04/dht	{"dev": "e04", "hum": " 63", "temp": " 64"}
+4/11/2023 15:11:42	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9
+4/11/2023 15:11:42	cam02/log	Uploading picture... 
+4/11/2023 15:11:42	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5
+4/11/2023 15:11:42	cam01/log	Uploading picture... 
+4/11/2023 15:12:29	e01/dht/upd	upd
+4/11/2023 15:12:29	e01/dht	{"dev": "e01", "hum": " 67", "temp": " 66"}
+4/11/2023 15:12:32	emp/dht/upd	upd
+4/11/2023 15:12:32	emp/dht	{"dev": "emp", "hum": " 48", "temp": " 68"}
+4/11/2023 15:12:35	e02/dht/upd	upd
+4/11/2023 15:12:35	e02/dht	{"dev": "e02", "hum": " 61", "temp": " 69"}
+4/11/2023 15:12:38	e04/dht/upd	upd
+4/11/2023 15:12:38	e04/dht	{"dev": "e04", "hum": " 59", "temp": " 66"}
+4/11/2023 15:24:53	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9
+4/11/2023 15:24:53	cam02/log	Uploading picture... 
+4/11/2023 15:24:53	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5
+4/11/2023 15:24:53	cam01/log	Uploading picture... 
+4/11/2023 15:27:29	e01/dht/upd	upd
+4/11/2023 15:27:29	e01/dht	{"dev": "e01", "hum": " 66", "temp": " 66"}
+4/11/2023 15:27:32	emp/dht/upd	upd
+4/11/2023 15:27:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 70"}
+4/11/2023 15:27:35	e02/dht/upd	upd
+4/11/2023 15:27:35	e02/dht	{"dev": "e02", "hum": " 61", "temp": " 69"}
+4/11/2023 15:27:38	e04/dht/upd	upd
+4/11/2023 15:27:38	e04/dht	{"dev": "e04", "hum": " 59", "temp": " 66"}
+4/11/2023 15:29:29	r03/log	mqtt: subscr r03/lcd
+4/11/2023 15:29:29	r03/log	mqtt: subscr r03/menu/tch
+4/11/2023 15:29:29	r03/log	mqtt: subscr r03/mem/upd
+4/11/2023 15:29:29	r03/log	mqtt: subscr #
+4/11/2023 15:29:29	r03/log	mqtt: subscr r03/dsp_dvc/cmd
+4/11/2023 15:29:53	e01/dht/upd	upd
+4/11/2023 15:29:53	e01/dht	{"dev": "e01", "hum": " 66", "temp": " 66"}
+4/11/2023 15:29:56	emp/dht/upd	upd
+4/11/2023 15:29:56	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 70"}
+4/11/2023 15:29:59	e02/dht/upd	upd
+4/11/2023 15:29:59	e02/dht	{"dev": "e02", "hum": " 61", "temp": " 70"}
+4/11/2023 15:30:02	e04/dht/upd	upd
+4/11/2023 15:30:02	e04/dht	{"dev": "e04", "hum": " 59", "temp": " 66"}
+4/11/2023 15:32:29	e01/dht/upd	upd
+4/11/2023 15:32:29	e01/dht	{"dev": "e01", "hum": " 66", "temp": " 66"}
+4/11/2023 15:32:32	emp/dht/upd	upd
+4/11/2023 15:32:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 70"}
+4/11/2023 15:32:35	e02/dht/upd	upd
+4/11/2023 15:32:35	e02/dht	{"dev": "e02", "hum": " 61", "temp": " 70"}
+4/11/2023 15:32:38	e04/dht/upd	upd
+4/11/2023 15:32:38	e04/dht	{"dev": "e04", "hum": " 59", "temp": " 66"}
+4/11/2023 15:32:48	r03/log	mqtt: subscr r03/lcd
+4/11/2023 15:32:48	r03/log	mqtt: subscr r03/menu/tch
+4/11/2023 15:32:48	r03/log	mqtt: subscr r03/mem/upd
+4/11/2023 15:32:48	r03/log	mqtt: subscr #
+4/11/2023 15:32:48	r03/log	mqtt: subscr r03/dsp_dvc/cmd
+4/11/2023 15:34:32	r03/log	mqtt: subscr r03/lcd
+4/11/2023 15:34:32	r03/log	mqtt: subscr r03/menu/tch
+4/11/2023 15:34:32	r03/log	mqtt: subscr r03/mem/upd
+4/11/2023 15:34:32	r03/log	mqtt: subscr #
+4/11/2023 15:34:32	r03/log	mqtt: subscr r03/dsp_dvc/cmd
+4/11/2023 15:34:53	e01/dht/upd	upd
+4/11/2023 15:34:53	e01/dht	{"dev": "e01", "hum": " 66", "temp": " 66"}
+4/11/2023 15:34:56	emp/dht/upd	upd
+4/11/2023 15:34:56	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 70"}
+4/11/2023 15:34:59	e02/dht/upd	upd
+4/11/2023 15:34:59	e02/dht	{"dev": "e02", "hum": " 61", "temp": " 70"}
+4/11/2023 15:35:02	e04/dht/upd	upd
+4/11/2023 15:35:02	e04/dht	{"dev": "e04", "hum": " 59", "temp": " 66"}
+4/11/2023 15:36:12	r03/log	mqtt: subscr r03/lcd
+4/11/2023 15:36:12	r03/log	mqtt: subscr r03/menu/tch
+4/11/2023 15:36:12	r03/log	mqtt: subscr r03/mem/upd
+4/11/2023 15:36:12	r03/log	mqtt: subscr #
+4/11/2023 15:36:12	r03/log	mqtt: subscr r03/dsp_dvc/cmd
+4/11/2023 15:37:20	win01/ds/get	{'init_pos': -1, 'max_cnt': 10, 'direction': 'back', 'resp_topic': 'r03/ds/resp'}
+4/11/2023 15:37:20	win01/log	d_get: invalid json: {'init_pos': -1, 'max_cnt': 10, 'direction': 'back', 'resp_topic': 'r03/ds/resp'}
+4/11/2023 15:37:29	e01/dht/upd	upd
+4/11/2023 15:37:29	e01/dht	{"dev": "e01", "hum": " 66", "temp": " 66"}
+4/11/2023 15:37:32	emp/dht/upd	upd
+4/11/2023 15:37:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 70"}
+4/11/2023 15:37:35	e02/dht/upd	upd
+4/11/2023 15:37:35	e02/dht	{"dev": "e02", "hum": " 61", "temp": " 70"}
+4/11/2023 15:37:38	e04/dht/upd	upd
+4/11/2023 15:37:38	e04/dht	{"dev": "e04", "hum": " 59", "temp": " 66"}
+4/11/2023 15:38:30	win01/ds/get	{"init_pos": -1, "max_cnt": 10, "direction": "back", "resp_topic": "r03/ds/resp"}
+4/11/2023 15:38:30	r03/ds/resp	{"prev_idx": -1, "data": [], "next_idx": 0}
+4/11/2023 15:39:53	e01/dht/upd	upd
+4/11/2023 15:39:53	e01/dht	{"dev": "e01", "hum": " 66", "temp": " 66"}
+4/11/2023 15:39:56	emp/dht/upd	upd
+4/11/2023 15:39:56	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 70"}
+4/11/2023 15:39:59	e02/dht/upd	upd
+4/11/2023 15:39:59	e02/dht	{"dev": "e02", "hum": " 61", "temp": " 70"}
+4/11/2023 15:40:02	e04/dht/upd	upd
+4/11/2023 15:40:02	e04/dht	{"dev": "e04", "hum": " 59", "temp": " 66"}
+4/11/2023 15:42:29	e01/dht/upd	upd
+4/11/2023 15:42:29	e01/dht	{"dev": "e01", "hum": " 66", "temp": " 66"}
+4/11/2023 15:42:32	emp/dht/upd	upd
+4/11/2023 15:42:32	emp/dht	{"dev": "emp", "hum": " 47", "temp": " 70"}
+4/11/2023 15:42:44	cam02	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9
+4/11/2023 15:42:44	cam02/log	Uploading picture... 
+4/11/2023 15:42:44	cam01	https://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5
+4/11/2023 15:42:44	cam01/log	Uploading picture... 
+4/11/2023 15:42:57	win01/ds/get	{"init_pos": -1, "max_cnt": 10, "direction": "back", "resp_topic": "r03/ds/resp"}
+4/11/2023 15:42:57	r03/ds/resp	{"prev_idx": 2166, "data": ["4/11/2023 15:40:02\te04/dht\t{\"dev\": \"e04\", \"hum\": \" 59\", \"temp\": \" 66\"}", "4/11/2023 15:42:29\te01/dht/upd\tupd", "4/11/2023 15:42:29\te01/dht\t{\"dev\": \"e01\", \"hum\": \" 66\", \"temp\": \" 66\"}", "4/11/2023 15:42:32\temp/dht/upd\tupd", "4/11/2023 15:42:32\temp/dht\t{\"dev\": \"emp\", \"hum\": \" 47\", \"temp\": \" 70\"}", "4/11/2023 15:42:44\tcam02\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto.jpg?alt=media&token=3ebfaa6b-af3a-4044-9f62-d6dbc7b419a9", "4/11/2023 15:42:44\tcam02/log\tUploading picture...", "4/11/2023 15:42:44\tcam01\thttps://firebasestorage.googleapis.com/v0/b/esp-firebase-demo-64d06.appspot.com/o/data%2Fphoto01.jpg?alt=media&token=a6426da7-c36f-4bb1-8461-4291bd3322d5", "4/11/2023 15:42:44\tcam01/log\tUploading picture..."], "next_idx": 2176}
